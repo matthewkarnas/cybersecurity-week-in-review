@@ -1,1 +1,141 @@
+Cybersecurity Week in Review: April 17th to 23rd, 2022
 
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 3 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed. 
+https://www.cisa.gov/uscert/ncas/current-activity/2022/04/19/cisa-adds-three-known-exploited-vulnerabilities-catalog
+
+There are 1800 CVEs so far for the month of April 2022. 
+https://nvd.nist.gov/vuln/full-listing/2022/4
+
+Security advisory/updates released for Dell, Oracle, Drupal, Cisco, Delta Electronics, Ubuntu, HPE, Johnson Controls Metasys SCT Pro, IBM, Microsoft Edge, Siemens, Google Chrome
+
+FBI has released a Flash report detailing indicators of compromise (IOCs) associated with attacks involving BlackCat/ALPHV, a Ransomware-as-a-Service that has compromised at least 60 entities worldwide. 
+https://www.ic3.gov/Media/News/2022/220420.pdf
+
+CISA, FBI, and the U.S. Treasury released a joint Cybersecurity Advisory that details cyber threats associated with cryptocurrency thefts and tactics used by a North Korean state-sponsored APT actor Lazarus Group. 
+https://www.cisa.gov/uscert/ncas/alerts/aa22-108a
+
+The cyber authorities of US, Australia, Canada, New Zealand, and UK released a joint Cybersecurity Advisory to warn orgs that Russia’s invasion of Ukraine could expose organizations both within and beyond the region to increased malicious cyber activity from Russian state-sponsored cyber actors. https://www.cisa.gov/uscert/ncas/current-activity/2022/04/20/russian-state-sponsored-and-criminal-cyber-threats-critical
+
+Former DNC security officer Bob Lord joins CISA. 
+https://www.cyberscoop.com/cisa-bob-lord-dnc
+
+US, 6 other nations to develop cross-border privacy and security standards. 
+https://www.scmagazine.com/analysis/compliance/us-6-other-nations-to-develop-cross-border-privacy-and-security-standards
+
+Congress wants a plan for post-quantum hacking threats for federal IT systems. 
+https://www.cyberscoop.com/cyber-command-unfunded-priorities-budget
+
+U.S. Cyber Command gives Congress $236M unfunded priorities wish list.
+https://www.cyberscoop.com/cyber-command-unfunded-priorities-budget
+
+Hackers find 122 vulnerabilities - 27 deemed critical - during first round of DHS bug bounty program.
+https://www.cyberscoop.com/dhs-bug-bounty-122-vulnerabilities-27-critical-hackers
+
+NIST revamps aging enterprise patch management guidance.
+https://portswigger.net/daily-swig/nist-revamps-aging-enterprise-patch-management-guidance
+
+CISA Releases Secure Cloud Business Applications (SCuBA) Guidance Documents for Public Comment.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/04/19/cisa-releases-secure-cloud-business-applications-scuba-guidance
+
+
+Threats and Actors:
+__________________
+
+ZLoader C2 Servers Disrupted in Global Operation.
+https://cyware.com/news/zloader-c2-servers-disrupted-in-global-operation-8763d42f
+
+Experts warn of need to patch critical cryptographic Java bug.
+https://therecord.media/experts-warn-of-need-to-patch-critical-cryptographic-java-bug
+
+Defeating BazarLoader Anti-Analysis Techniques.
+https://unit42.paloaltonetworks.com/bazarloader-anti-analysis-techniques
+
+DDoS attacks in Q1 2022.
+https://securelist.com/ddos-attacks-in-q1-2022/106358
+
+Lemon Duck Hacks Docker Servers for Cryptomining. A large-scale Monero cryptomining campaign has been targeting Docker APIs on Linux servers. The attacks are launched from the LemonDuck botnet targeting misconfigured Docker systems.
+https://cyware.com/news/lemon-duck-hacks-docker-servers-for-cryptomining-d83ca3ca
+
+Emotet Revamp: New Payloads and 64-Bit Modules. The Emotet malware is spreading widely and is believed to be switching to new payloads detected by fewer antivirus engines.
+https://cyware.com/news/emotet-revamp-new-payloads-and-64-bit-modules-8905bdd7
+
+Cisco Umbrella default SSH key allows theft of admin credentials, allowing unauthenticated attackers to steal admin credentials remotely.
+https://www.bleepingcomputer.com/news/security/cisco-umbrella-default-ssh-key-allows-theft-of-admin-credentials
+
+Nokoyawa Ransomware.  New Karma/Nemty Variant Wears Thin Disguise. At the beginning of February 2022, SentinelLabs observed two samples of a new Nemty variant dubbed “Nokoyawa”, evolution of the previous Nemty strain, Karma.
+https://www.sentinelone.com/labs/nokoyawa-ransomware-new-karma-nemty-variant-wears-thin-disguise
+
+REvil's Tor Servers are Active Again. These servers are redirecting users to a new operation that is believed to have started in mid-December 2021.
+https://cyware.com/news/revils-tor-servers-are-active-again-0f4b3c87
+
+Critical Chipset Bugs Open Millions of Android Devices to Remote Spying.
+https://thehackernews.com/2022/04/critical-chipset-bug-opens-millions-of.html
+
+Microsoft Exchange servers hacked to deploy Hive ransomware.
+https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-hive-ransomware
+
+A now-patched security vulnerability in the Snort intrusion detection and prevention system could trigger a denial-of-service (DoS) condition and render it powerless against malicious traffic.
+https://thehackernews.com/2022/04/researchers-detail-bug-that-could.html
+
+A new report shed light on the behavior of the Night Sky ransomware and provided a list of IoCs along with mitigation. First discovered in January, it uses the double extortion tactic.
+https://cyware.com/news/night-sky-ransomwares-ride-from-dawn-till-dusk-ae1e2f8e
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+French hospital group disconnects Internet after hackers steal data.
+https://www.bleepingcomputer.com/news/security/french-hospital-group-disconnects-internet-after-hackers-steal-data
+
+Chicago hospital faces 3 lawsuits over data breach that exposed 116,000 records.
+https://www.beckershospitalreview.com/cybersecurity/chicago-hospital-faces-3-lawsuits-over-data-breach-that-exposed-116-000-records.html
+
+Rio de Janeiro finance department hit with LockBit ransomware. The LockBit ransomware group claimed to have attacked systems connected to the government offices, stealing about 420 GB.
+https://therecord.media/rio-de-janeiro-finance-department-hit-with-lockbit-ransomware
+
+Bob's Red Mill Natural Foods issued a data breach notice on April 15 after learning that it had fallen victim to a data scraping cyber-attack that began two months ago.
+https://www.infosecurity-magazine.com/news/bobs-red-mill-reports-data-breach
+
+RCM company suffers 3rd-largest health data breach of 2022.
+https://www.beckershospitalreview.com/cybersecurity/rcm-company-suffers-3rd-largest-health-data-breach-of-2022.html
+
+Thousands of passengers of Canadian low-cost airline, Sunwing Airlines Inc, face a fourth day of flight delays after a third-party system the airline uses was hacked, according to the CEO.
+https://www.infosecurity-magazine.com/news/cyberattackers-hit-sunwing-airlines
+
+British retailer WH Smith has confirmed that Funky Pigeon, its online greetings card and gift subsidiary, has halted all further orders after a "security incident.".
+https://www.theregister.com/2022/04/19/funky_pigeon_security_incident
+
+In the News:
+___________
+
+Hackers are exploiting 0-days more than ever. Mandiant and Google both reported a spike in 0-day bugs in 2021.
+https://arstechnica.com/information-technology/2022/04/hackers-are-exploiting-0-days-more-than-ever
+
+Brokers' sales of U.S. military personnel data overseas stir national security fears.
+https://www.cyberscoop.com/data-brokers-national-security-risk
+
+Rethinking Cyber-Defense Strategies in the Public-Cloud Age.
+https://threatpost.com/cyber-defense-public-cloud/179342/
+
+Watchdog warned UK government of spyware infections inside 10 Downing Street.
+https://www.reuters.com/world/uk/watchdog-warned-uk-government-spyware-infections-inside-10-downing-street-2022-04-18
+
+Leaked Chats Show LAPSUS$ Stole T-Mobile Source Code.
+https://krebsonsecurity.com/2022/04/leaked-chats-show-lapsus-stole-t-mobile-source-code
+
+New Industrial Spy stolen data market promoted through cracks, adware. promotes itself as a marketplace where businesses can purchase their competitors' data to gain access to trade secrets, manufacturing diagrams, accounting reports, and client databases.
+https://www.bleepingcomputer.com/news/security/new-industrial-spy-stolen-data-market-promoted-through-cracks-adware
+
+Ukraine’s postal service prints stamp mocking sunken Russian ship, and gets hit by DDoS attack.
+https://grahamcluley.com/ukraines-postal-service-prints-stamp-mocking-sunken-russian-ship-and-gets-hit-by-ddos-attack
+
+Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps. Webex monitors, collects, processes, and shares with its servers audio-derived data, while the user is muted.
+https://arxiv.org/pdf/2204.06128.pdf
+
+Hackers can infect >100 Lenovo models with unremovable malware. Are you patched? Exploiting critical UEFI vulnerabilities could allow malware to hide in firmware.
+https://arstechnica.com/information-technology/2022/04/bugs-in-100-lenovo-models-fixed-to-prevent-unremovable-infections
