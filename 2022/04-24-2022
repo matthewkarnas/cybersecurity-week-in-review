@@ -1,0 +1,142 @@
+Cybersecurity Week in Review: April 24th to 30th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 7 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed, found here.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/04/25/cisa-adds-seven-known-exploited-vulnerabilities-catalog
+
+There are 2061 CVEs for the month of April 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/4
+
+CISA, NSA, FBI, ACSC, CCCS, NZ NCSC, NCSC-UK released a joint Cybersecurity Advisory that provides details on the top 15 CVEs routinely exploited by malicious cyber actors in 2021.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/04/27/2021-top-routinely-exploited-vulnerabilities
+
+CISA and FBI have updated joint Cybersecurity Advisory AA22-057A: Destructive Malware Targeting Organizations in Ukraine, originally released February 26, 2022.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/04/28/cisa-and-fbi-update-advisory-destructive-malware-targeting
+
+The U.S. Department of State has announced that it is offering a reward of up to $10 million for information that leads to the "identification or location" of six Russian GRU hackers.
+https://www.forbes.com/sites/daveywinder/2022/04/30/russian-military-hackers-10-million-reward-offered-by-us-government/?sh=3515b98027ae
+
+Biden nominates Haugh as CYBERCOM deputy. The leader of the U.S. Air Force’s information warfare branch has been selected to be the next Cyber Command deputy.
+https://www.defensenews.com/cyber/2022/04/27/biden-nominates-haugh-as-cybercom-deputy
+
+
+Threats and Actors:
+__________________
+
+Emotet is Back From ‘Spring Break’ With New Nasty Tricks. The Botnet appears to use a new delivery method for compromising Windows systems after Microsoft disables VBA macros by default.
+https://threatpost.com/emotet-back-new-tricks/179410/
+
+Rocket Kitten Targets VMware Flaws In the Wild. Rocket Kitten, an Iran-linked APT group, is abusing a recently patched flaw in VMware Workspace ONE Access. 
+https://cyware.com/news/rocket-kitten-targets-vmware-flaws-in-the-wild-a1c02ea2
+
+AWS Targeted by a Package Backfill Attack. On April 28 & April 30, respectively, WhiteSource identified, blocked, and reported two packages we deemed were malicious versions of original AWS packages.
+https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack
+
+A new ransomware operation named Black Basta has targeted at least a dozen companies and some researchers believe there may be a connection to the notorious Conti group.
+https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-group
+
+Chinese "Override Panda" Hackers Resurface With New Espionage Attacks. The Chinese APT used a spear-phishing email to deliver a beacon of a Red Team framework known as 'Viper’.
+https://thehackernews.com/2022/05/chinese-override-panda-hackers.html
+
+AvosLocker Ransomware Variant Abuses Driver File to Disable Anti-Virus, Scans for Log4shell. An AvosLocker ransomware variant is using a legitimate anti-virus component to disable detection and blocking solutions.
+https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html
+
+Fake Windows 10 updates infect you with Magniber ransomware.
+https://www.bleepingcomputer.com/news/security/fake-windows-10-updates-infect-you-with-magniber-ransomware/
+
+Russian Hackers Targeting Diplomatic Entities in Europe, Americas, and Asia. Threat intelligence and incident response firm Mandiant attributed the attacks to hacking group tracked as APT29 (aka Cozy Bear).
+https://thehackernews.com/2022/05/russian-hackers-targeting-diplomatic.html
+
+The GOLD ULRICK group, which operates the Conti name-and-shame ransomware scheme, seems to have adapted well to the massive data leak of Conti’s source code.
+https://cyware.com/news/gold-ulrick-continues-to-evolve-and-flourish-3df45aca
+
+A new malware loader, dubbed Bumblebee, has been tracked by Proofpoint. The loader is being used at least by three different threat clusters linked with ransomware operations.
+https://cyware.com/news/bumblebee-buzzes-in-to-sting-bazarloader-2b6359b7
+
+Microsoft finds new elevation of privilege Linux vulnerability, Nimbuspwn.
+https://www.microsoft.com/security/blog/2022/04/26/microsoft-finds-new-elevation-of-privilege-linux-vulnerability-nimbuspwn/
+
+Lazarus Associated with New Malware Exploiting INITECH Process.
+https://cyware.com/news/lazarus-associated-with-new-malware-exploiting-initech-process-04cf3f53
+
+TeamTNT payloads are focused on crypto-mining, persistence, and lateral movement by discovering and deploying all Kubernetes pods in a local network.
+https://cyware.com/news/teamtnt-has-updated-its-attack-tactics-0081a4e0
+
+North Korean APT37 Targets Journalists with GoldBackdoor.
+https://cyware.com/news/north-korean-apt37-targets-journalists-with-goldbackdoor-ae04b383
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+GitHub shared the timeline of breaches in April 2022, this timeline encompasses the information related to when a threat actor gained access and stole private repositories belonging to dozens of organizations.
+https://threatpost.com/github-repos-stolen-oauth-tokens/179427/
+
+How the French fiber optic cable attacks accentuate critical infrastructure vulnerabilities. Pictures show neatly trimmed fiber optic cables dug up from underground behind what appears to be a well-hidden grate.
+https://www.cyberscoop.com/french-fiber-optic-cables-attack-critical-infrastructure/
+
+Microsoft ties January Ukraine attack to notorious Sandworm group.
+https://www.cyberscoop.com/microsoft-ties-january-ukraine-attack-to-notorious-sandworm-group/
+
+UK’s army recruitment system closed since March after data breach. Data relating to about 120 army recruits was offered for sale on the dark web.
+https://www.theguardian.com/uk-news/2022/apr/26/uks-army-recruitment-system-closed-since-march-after-data-breach
+
+Attackers Steal $80 Million From Rari Capital's Fuse Platform, Fei Protocol Suffers From Exploit.
+https://news.bitcoin.com/attackers-steal-80-million-from-rari-capitals-fuse-platform-fei-protocol-suffers-from-exploit
+
+Federal investigators say a cyber attack on a North Dakota-based company that provides software and billing services for doctors and healthcare professionals affected more than a half-million customers.
+https://www.insurancejournal.com/news/midwest/2022/05/02/665537.htm
+
+Mozilla finds mental health apps fail ‘spectacularly’ at user security, data policies.
+https://www.databreaches.net/mozilla-finds-mental-health-apps-fail-spectacularly-at-user-security-data-policies/
+
+Romanian government says websites attacked by pro-Russian group.
+https://therecord.media/romanian-government-says-websites-attacked-by-pro-russian-group/
+
+Data breach at US healthcare provider ARcare impacts 345,000 individuals.
+https://portswigger.net/daily-swig/data-breach-at-us-healthcare-provider-arcare-impacts-345-000-individuals
+
+Hackers fool major tech companies into handing over data of women and minors to abuse.
+https://blog.malwarebytes.com/social-engineering/2022/04/hackers-fool-major-tech-companies-into-handing-over-data-of-women-and-minors-to-abuse/
+
+American Dental Association hit by new Black Basta ransomware.
+https://www.bleepingcomputer.com/news/security/american-dental-association-hit-by-new-black-basta-ransomware
+
+Coca-Cola investigating claims of hack after ransomware group hawks stolen data
+https://therecord.media/coca-cola-investigating-claims-of-hack-after-ransomware-group-hawks-stolen-data
+
+A Texas school district employee has tendered their resignation after being caught secretly mining cryptocurrency on school premises.
+https://www.infosecurity-magazine.com/news/secret-school-district-crypto
+
+
+In the News:
+___________
+
+Deep Dive: Protecting Against Container Threats in the Cloud. A deep dive into securing containerized environments and understanding how they present unique security challenges.
+https://threatpost.com/container_threats_cloud_defend/179452/
+
+The FBI conducted as many as 3.4 million warrantless searches of U.S. citizens’ data last year that the National Security Agency had collected.
+https://www.cyberscoop.com/fbi-3-4-million-warrantless-searches-nsa-odni
+
+Survey and research examines organizations’ top cloud security concerns, attitudes towards zero-trust and DevSecOps.
+https://threatpost.com/security-turbulence-in-the-cloud-survey-says/179437
+
+Firms Push for CVE-Like Cloud Bug System. Big gaps exist in the 22-year-old CVE system that do not address dangerous flaws in cloud services that drive millions of apps and backend services.
+https://threatpost.com/cve-cloud-bug-system/179394/
+
+Ransomware costs show prevention is better than the cure. A new study by researchers at Check Point, discovered that the average total cost of a ransomware attack is more than seven times higher than the average ransom paid.
+https://www.tripwire.com/state-of-security/security-data-protection/ransomware-costs-prevention-better-than-cure
+
+Cloudflare detects one of the largest DDoS attacks on record targeting crypto platform.
+https://therecord.media/cloudflare-detects-one-of-the-largest-ddos-attacks-on-record-targeting-crypto-platform
+
+Over 300,000 Internet-Exposed Databases Identified in 2021. Cybersecurity firm Group-IB identified more than 91,000 publicly-exposed databases in the first quarter of 2022, significantly more than in the previous year.
+https://www.securityweek.com/over-300000-internet-exposed-databases-identified-2021-study
+
+Take a Diversified Approach to Encryption. Encryption will break, so it's important to mix and layer different encryption methods.
+https://www.darkreading.com/vulnerabilities-threats/take-a-diversified-approach-to-encryption
