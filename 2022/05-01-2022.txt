@@ -1,0 +1,182 @@
+Cybersecurity Week in Review: May 1st to 7th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 5 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed, found here.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/04/cisa-adds-five-known-exploited-vulnerabilities-catalog
+
+NIST Releases Updated Cybersecurity Guidance for Managing Supply Chain Risks
+https://thehackernews.com/2022/05/nist-releases-updated-guidance-for.html
+
+US Cyber Command shored up nine nations' defenses last year 'Hunt forward' operations push US capabilities across borders
+https://www.theregister.com/2022/05/04/us_cyber_hunt_forward
+
+NSA cyber boss seeks to discourage vigilante hacking against Russia
+https://www.c4isrnet.com/cyber/2022/05/05/nsa-cyber-boss-seeks-to-discourage-vigilante-hacking-against-russia
+
+The security program of the United States’ Department of Health and Human Services has been deemed ineffective for a fourth consecutive year
+https://www.infosecurity-magazine.com/news/hhs-information-security-program
+
+New DOJ Team Focuses on Ransomware and Cryptocurrency Crime
+https://securityintelligence.com/articles/doj-ransomware-crypto
+
+U.S. White House releases ambitious agenda to mitigate the risks of quantum computing
+https://www.csoonline.com/article/3659893/u-s-white-house-releases-ambitious-agenda-to-mitigate-the-risks-of-quantum-computing.html
+
+NCSC updates build environment best practices, the NCSC has helped to develop a new industry code of practice designed to mitigate cyber risk in the built environment
+https://www.itsecurityguru.org/2022/05/04/ncsc-updates-build-environment-best-practices
+
+Proposal would require tech companies to share algorithmic data
+https://iapp.org/news/a/proposal-would-require-tech-companies-to-share-algorithmic-data
+
+Over 50 countries sign the “Declaration for the Future of the Internet”
+https://blog.malwarebytes.com/security-world/2022/05/over-50-countries-sign-the-declaration-for-the-future-of-the-internet
+
+
+Threats and Actors:
+__________________
+
+Researchers Disclose Years-Old Vulnerabilities in Avast and AVG Antivirus
+https://thehackernews.com/2022/05/researchers-disclose-10-year-old.html
+
+China-based Winnti APT is associated with new attack campaign that went undetected for years and leveraged a previously undocumented malware to steal secret trade data from multiple organizations.
+https://cyware.com/news/winnti-apt-returns-in-new-operation-cuckoobees-campaign-2abea4ab
+
+Windows Event Logs Abused to Unleash Fileless Malware Attacks
+https://cyware.com/news/windows-event-logs-abused-to-unleash-fileless-malware-attacks-53eb3ec0
+
+Nobelium Group Preparing New infrastructure to Target Several Industry Sectors
+https://cyware.com/news/nobelium-group-preparing-new-infrastructure-to-target-several-industry-sectors-a17c23c9
+
+Fake NFT Artist Job Offer Lures Spreading Infostealer Malware
+https://cyware.com/news/fake-nft-artist-job-offer-lures-spreading-infostealer-malware-15486ee5
+
+UNC3524 APT Has Got Backdoors, Persistency Tactics Under Its Sleeves
+https://cyware.com/news/unc3524-apt-has-got-backdoors-persistency-tactics-under-its-sleeves-3310970e
+
+Ransomware families such as LockBit, REvil, Conti, and Black Basta have bugs, which if exploited, prevent them from encrypting any files
+https://cyware.com/news/dll-hijacking-bug-puts-a-hole-in-prominent-ransomware-families-e6e0da5d
+
+Researchers Associate North-Korean APT38 Group with More Ransomware Strains
+https://cyware.com/news/researchers-associate-north-korean-apt38-group-with-more-ransomware-strains-e1696b02
+
+Experts Sound Alarm on DCRat Backdoor Being Sold on Russian Hacking Forums
+https://thehackernews.com/2022/05/experts-sound-alarm-on-dcrat-backdoor.html
+
+VHD Ransomware Linked to North Korea’s Lazarus Group
+https://threatpost.com/vhd-ransomware-lazarus-group/179507
+
+F5 Warns of Critical Bug Allowing Remote Code Execution in BIG-IP Systems
+https://threatpost.com/f5-critical-bugbig-ip-systems/179514
+
+Experts Uncover New Espionage Attacks by Chinese 'Mustang Panda' Hackers
+https://thehackernews.com/2022/05/experts-uncover-new-espionage-attacks.html
+
+Hackers Using PrivateLoader PPI Service to Distribute New NetDooka Malware
+https://thehackernews.com/2022/05/hackers-using-privateloader-ppi-service.html
+
+USB-based Wormable Malware Targets Windows Installer
+https://threatpost.com/usb-malware-targets-windows-installer/179521
+
+Botnet that hid for 18 months boasted some of the coolest tradecraft ever, once-unknown group uses a tunnel fetish and a chameleon's ability to blend in.
+https://arstechnica.com/information-technology/2022/05/how-hackers-used-smarts-and-a-novel-iot-botnet-to-plunder-email-for-months
+
+Wiper malware threat to the healthcare sector in US and Ukraine
+https://www.cybersecurity-insiders.com/wiper-malware-threat-to-the-healthcare-sector-in-us-and-ukraine
+
+TA410 Group has Got New Tools and Three Teams Working Under it
+https://cyware.com/news/ta410-group-has-got-new-tools-and-three-teams-working-under-it-dc4135ff
+
+Lapsus$ Eyes SharePoint, VPNs, and VMs
+https://cyware.com/news/lapsus-eyes-sharepoint-vpns-and-vms-27bccf63
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Anonymous Leak 82GB of Police Emails Against Australia’s Offshore Detention
+https://www.databreaches.net/anonymous-leak-82gb-of-police-emails-against-australias-offshore-detention
+
+WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued
+https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued
+
+Cyberattack takes down network of State Bar of Georgia
+https://therecord.media/state-bar-of-georgia-cyberattack
+
+Welldyne, North Alabama Bone & Joint Clinic disclose breaches affecting patient data
+https://www.databreaches.net/sunday-notes-welldyne-north-alabama-bone-joint-clinic-disclose-breaches-affecting-patient-data
+
+Anonymous NB65 Claims Hack on Russian Payment Processor Qiwi
+https://www.hackread.com/anonymous-nb65-hacki-russia-payment-processor-qiwi
+
+Thousands of Borrowers' Data Exposed from ENCollect Debt Collection Service
+https://thehackernews.com/2022/05/thousands-of-borrowers-data-exposed.html
+
+Cybercriminals reportedly hacked UK’s National Health Service, shortly dubbed NHS to launch over 1000 phishing emails from the compromised servers
+https://www.cybersecurity-insiders.com/nhs-email-servers-used-for-phishing-attacks
+
+IKEA has admitted that its Canadian wing has become a victim of a large data breach that could have spilled personal details of approximately 95,000 customers to hackers.
+https://www.cybersecurity-insiders.com/ikea-canada-becomes-a-victim-of-a-large-data-breach
+
+Health startup myNurse to shut down after data breach exposed health records
+https://www.databreaches.net/health-startup-mynurse-to-shut-down-after-data-breach-exposed-health-records
+
+Ransomware Attack Closes Kellogg Community College
+https://www.insidehighered.com/quicktakes/2022/05/03/ransomware-attack-closes-kellogg-community-college
+
+
+In the News:
+___________
+
+China stealing intellectual data from Europe and North America
+https://www.cybersecurity-insiders.com/china-stealing-intellectual-data-from-europe-and-north-america
+
+$43 billion stolen through Business Email Compromise since 2016, reports FBI
+https://www.tripwire.com/state-of-security/security-data-protection/43-billion-stolen-through-business-email-compromise-since-2016-reports-fbi
+
+Wrongly configured Google Cloud API potentially creates dangerous functionality, Misconfiguration of the Google Cloud Platform API could create an exploitable behavior that leads to service compromise.
+https://www.csoonline.com/article/3660070/wrongly-configured-google-cloud-api-potentially-creates-dangerous-functionality.htm
+
+Corporate Involvement in International Cybersecurity Treaties
+https://www.schneier.com/blog/archives/2022/05/corporate-involvement-in-international-cybersecurity-treaties.html
+
+Apple, Google, Microsoft expand support for FIDO passwordless sign-in standard
+https://www.csoonline.com/article/3660054/apple-google-microsoft-expand-support-for-fido-passwordless-sign-in-standard.html
+
+The Growing Danger of Data Exfiltration by Third-Party Web Scripts
+https://securityintelligence.com/posts/growing-danger-data-exfiltration-third-party-web-scripts
+
+Killnet Hacking group of Russia pledges to disrupt ventilators across UK Hospitals
+https://www.cybersecurity-insiders.com/killnet-hacking-group-of-russia-pledges-to-disrupt-ventilators-across-uk-hospitals
+
+Scammer Infects His Own Machine With Spyware, Reveals True Identity
+https://www.darkreading.com/attacks-breaches/scammer-infects-own-machine-reveals-true-identity
+
+U.S. DoD tricked into paying $23.5 million to phishing actor
+https://www.bleepingcomputer.com/news/security/us-dod-tricked-into-paying-235-million-to-phishing-actor
+
+SafeGraph’s Disingenuous Claims About Location Data Mask a Dangerous Industry
+https://www.eff.org/deeplinks/2022/05/safegraphs-disingenuous-claims-about-location-data-mask-dangerous-industry
+
+A perspectie on managing regulatory relationships
+philvenables.com/post/regulatory-relationships
+
+Cyber attacks cause national emergency in Costa Rica, Conti ransomware group has initiated cyber attacks on multiple Costa Rican government bodies, causing the country to declare a state of emergency
+https://www.itsecurityguru.org/2022/05/09/cyber-attacks-cause-national-emergency-in-costa-rica
+
+Ransomware-as-a-service: Understanding the cybercrime gig economy and how to protect yourself
+https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself
+
+Cyber Attack on Nile Dam foiled by Ethiopian Authorities
+https://www.cybersecurity-insiders.com/cyber-attack-on-nile-dam-foiled-by-ethiopian-authorities
+
+Spyware attack targeted Spanish prime minister’s phone
+https://therecord.media/spyware-attack-targeted-spanish-prime-ministers-phone
+
+Twitter may have given user's private data to a ransomware hacker, who then ran a researcher offline
+https://www.cyberscoop.com/twitter-emergency-disclosure-request-lalartu-aleksandr-sikerin-revil-ransomware-researcher-threats
+
+
