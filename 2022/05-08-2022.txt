@@ -1,0 +1,174 @@
+Cybersecurity Week in Review: May 8th to 14th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 1 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-adds-one-known-exploited-vulnerability-catalog
+
+There are 1224 CVEs so far for the month of May 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/5
+
+Microsoft released security advisory to address a remote code execution vulnerability affecting Azure Data Factory and Azure Synapse Pipelines. A remote attacker could exploit this vulnerability to take control.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/10/microsoft-releases-security-advisory-azure-data-factory-and-azure
+
+Apache Releases Security Advisory for Tomcat.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/16/apache-releases-security-advisory-tomcat
+
+CISA Joins Partners to Release Advisory on Protecting MSPs and their Customers.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-joins-partners-release-advisory-protecting-msps-and-their
+
+U.S. Government Attributes Cyberattacks on SATCOM Networks to Russian State-Sponsored Malicious Cyber Actors.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/10/us-government-attributes-cyberattacks-satcom-networks-russian
+
+White House cyber official: U.S. beating China in race to quantum supremacy.
+https://www.cyberscoop.com/white-house-u-s-china-quantum-jonah-force-hill
+
+13 Tech Areas, Functions And Laws Facing New Or Potential Government Oversight.
+https://www.forbes.com/sites/forbestechcouncil/2022/05/16/13-tech-areas-functions-and-laws-facing-new-or-potential-government-oversight/?sh=406785502f86
+
+The European Union (EU) has reached political agreement on new legislation that will impose common cybersecurity standards on critical industry organizations.
+https://www.infosecurity-magazine.com/news/eu-cybersecurity-legislation
+
+Software made unsafe by dependencies should be fixed without users needing to interact with the source of the problem, according to US National Cyber Director Chris Inglis.
+https://www.theregister.com/2022/05/13/us_cyber_director_patching
+
+ICE surveillance dragnet scoops up data on 3 out of 4 Americans, report finds.
+https://www.cyberscoop.com/ice-surveillance-dragnet-georgetown
+
+Biden signs cybercrime tracking bill into law. All part of a larger push by the Feds to improve cybersecurity reporting.
+https://www.congress.gov/bill/117th-congress/senate-bill/2629/text
+
+Office of the National Cyber Director hires Microsoft exec, CIA official.
+https://www.cyberscoop.com/office-of-the-national-cyber-director-new-hires-walden-higgins-knake
+
+Threats and Actors:
+__________________
+
+Microsoft is alerting customers that its May Patch Tuesday update is causing authentications errors and failures tied to Windows Active Directory Domain Services.
+https://threatpost.com/microsofts-may-patch-tuesday-updates-cause-windows-ad-authentication-errors/179631
+
+Ransomware group strikes second U.S. health care system in the last two months.
+https://www.cyberscoop.com/ransomware-us-hospital-system-healthcare
+
+SharePoint RCE bug resurfaces three months after being patched by Microsoft.
+https://portswigger.net/daily-swig/sharepoint-rce-bug-resurfaces-three-months-after-being-patched-by-microsoft
+
+Fake Mobile Apps Steal Facebook Credentials, Cryptocurrency-Related Keys.
+https://www.trendmicro.com/en_us/research/22/e/fake-mobile-apps-steal-facebook-credentials--crypto-related-keys.html
+
+Researchers warn of APTs, data leaks as serious threats against UK financial sector.
+https://www.zdnet.com/article/researchers-warn-of-apts-data-leaks-as-serious-threats-against-uk-financial-sector
+
+A phishing campaign targeting Microsoft Windows users delivers three different forms of malware, all designed to steal sensitive information from victims.
+https://www.zdnet.com/article/this-phishing-attack-delivers-three-forms-of-malware-and-they-all-want-to-steal-your-data
+
+Fake Pixelmon NFT site infects you with password-stealing malware.
+https://www.bleepingcomputer.com/news/security/fake-pixelmon-nft-site-infects-you-with-password-stealing-malware
+
+Eternity Project - A new swiss army knife for threat actors, touted to benefit both advanced cybercriminals and low-skilled attackers.
+https://cyware.com/news/eternity-project-a-new-swiss-army-knife-for-threat-actors-782bd03f
+
+Threat Actors Use Telegram to Spread ‘Eternity’ Malware-as-a-Service.
+https://threatpost.com/telegram-spread-eternity-maas/179623/
+
+A total of 17 vulnerabilities have been found in a wireless industrial router made by InHand Networks, including flaws that can be chained to gain root access by getting a user to click on a malicious link.
+https://www.securityweek.com/critical-vulnerabilities-provide-root-access-inhand-industrial-routers
+
+Microsoft: Sysrv botnet targets Windows, Linux servers with new exploits.
+https://www.bleepingcomputer.com/news/security/microsoft-sysrv-botnet-targets-windows-linux-servers-with-new-exploits
+
+New Clues Indicate REvil is All Set for a Comeback.
+https://cyware.com/news/new-clues-indicate-revil-is-all-set-for-a-comeback-baf97deb
+
+FluBot Spreads via SMS Campaigns to Target Finnish People.
+https://cyware.com/news/flubot-spreads-via-sms-campaigns-to-target-finnish-people-e35f22be
+
+A new malware framework, NetDooka, has been spreading using the PrivateLoader Pay-Per-Install (PPI) malware distribution service. The malware allows attackers full access to a compromised device.
+https://cyware.com/news/netdooka-leverages-privateloader-distribution-service-to-infect-victims-f56f72fb
+
+Emotet botnet operators (tracked as TA542) have been spotted testing new attack techniques after Microsoft disabled VBA macros by default. At present, the new technique is used on limited targets.
+https://cyware.com/news/emotet-is-testing-new-attack-chain-25595957
+
+Custom PowerShell RAT targets Germans seeking information about the Ukraine crisis.
+https://blog.malwarebytes.com/threat-intelligence/2022/05/custom-powershell-rat-targets-germans-seeking-information-about-the-ukraine-crisis
+
+Researchers have spotted ongoing malicious campaigns in Docker honeypot targeting exposed Docker API port 2375. The attacks are linked to cryptominers and reverse shells on exposed servers.
+https://cyware.com/news/docker-installations-used-in-malware-attacks-3bc198f3
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Russians allegedly storm Ukrainian ISP, blackmail it to switch to Russian networks.
+https://www.cyberscoop.com/russian-forces-ukrainian-isp-blackmail
+
+The U.S. Drug Enforcement Administration (DEA) says it is investigating reports that hackers gained unauthorized access to an agency portal that taps into 16 different federal law enforcement databases.
+https://krebsonsecurity.com/2022/05/dea-investigating-breach-of-law-enforcement-data-portal
+
+Texas man gets 5 years for stealing 38,000 PayPal account credentials.
+https://www.cyberscoop.com/marcos-ponce-paypal-credentials-prison
+
+British man charged in New York with hacking into bank computers, stealing millions.
+https://www.reuters.com/world/uk/british-man-charged-new-york-with-hacking-into-bank-computers-stealing-millions-2022-05-10
+
+Threat actors have started exploiting a critical bug in the application service provider F5’s BIG-IP modules after a working exploit of the vulnerability was publicly made available.
+https://threatpost.com/exploit-f5-big-ip-bug/179563
+
+Costa Rican president begins tenure with ransomware national emergency declaration.
+https://www.cyberscoop.com/conti-costa-rica-ransomware-peru-unc1756
+
+Nerbian RAT Spreads via Emails in Ongoing Attacks.
+https://cyware.com/news/nerbian-rat-spreads-via-emails-in-ongoing-attacks-39023cc1
+
+Parker Hannifin reveals cyber-attack exposed sensitive employee data.
+https://portswigger.net/daily-swig/parker-hannifin-reveals-cyber-attack-exposed-sensitive-employee-data
+
+Han Bing, a former database administrator for Lianjia, a Chinese real-estate brokerage giant, has been sentenced to 7 years in prison for logging into corporate systems and deleting the company’s data.
+https://www.databreaches.net/angry-it-admin-wipes-employers-databases-gets-7-years-in-prison
+
+No need to hack when it’s leaking, Saturday edition: Cincinnati inadvertently posted employees’ personal data online.
+https://www.databreaches.net/no-need-to-hack-when-its-leaking-saturday-edition-cincinnati-inadvertently-posted-employees-personal-data-online
+
+Breach affects more than 260,000 patients at New York health center.
+https://www.beckershospitalreview.com/cybersecurity/breach-affects-more-than-260-000-patients-at-new-york-health-center.html
+
+Misconfigured ElasticSearch Servers Exposed 579 GB of Users’ Website Activity.
+https://www.hackread.com/misconfigured-elasticsearch-servers-user-website-activity
+
+Personal details of 21M SuperVPN, GeckoVPN users leaked on Telegram.
+https://www.databreaches.net/personal-details-of-21m-supervpn-geckovpn-users-leaked-on-telegram
+
+
+In the News:
+___________
+
+The FBI announced charges Monday against a Venezuelan cardiologist that the bureau said was moonlighting as a cybercriminal mastermind, both designing and using ransomware.
+https://www.cyberscoop.com/fbi-charges-venezuelan-doctor-with-using-selling-thanos-ransomware
+
+Ransomware Deals Deathblow to 157-year-old College.
+https://threatpost.com/ransomware-deathblow-college/179574
+
+The NSA Says that There are No Known Flaws in NIST’s Quantum-Resistant Algorithms.
+https://www.schneier.com/blog/archives/2022/05/the-nsa-says-that-there-are-no-known-flaws-in-nists-quantum-resistant-algorithms.html
+
+Researchers Find Potential Way to Run Malware on iPhone Even When it's OFF.
+https://thehackernews.com/2022/05/researchers-find-way-to-run-malware-on.html
+
+Security researchers have developed a tool to scan popular office software for security vulnerabilities, and have already found more than 100 vulnerabilities across Microsoft Word, Adobe Acrobat and Foxit Reader.
+https://www.itpro.co.uk/security/367675/tool-scans-office-software-100-bugs-microsoft-word-adobe-acrobat
+
+San Francisco Police Are Using Driverless Cars as Mobile Surveillance Cameras. “Autonomous vehicles are recording their surroundings continuously and have the potential to help with investigative leads,” an internal training document states.
+https://www.vice.com/en/article/v7dw8x/san-francisco-police-are-using-driverless-cars-as-mobile-surveillance-cameras
+
+Threat Landscape: The Most Dangerous Cloud Attack Methods In The Wild Today.
+https://www.sentinelone.com/blog/threat-landscape-the-most-dangerous-cloud-attack-methods-in-the-wild-today
+
+Clearview AI, a facial recognition software and surveillance company, is permanently banned from selling its faceprint database within the United States. The company also cannot sell its database to state and law enforcement entities in Illinois for five years.
+https://blog.malwarebytes.com/privacy-2/2022/05/clearview-ai-banned-from-selling-facial-recognition-data-in-the-us
+
+Some top 100,000 websites collect everything you type - before you hit submit. A number of websites include keyloggers that covertly snag your keyboard inputs.
+https://arstechnica.com/information-technology/2022/05/some-top-100000-websites-collect-everything-you-type-before-you-hit-submit
