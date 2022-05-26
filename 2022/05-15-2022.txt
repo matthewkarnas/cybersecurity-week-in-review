@@ -1,0 +1,169 @@
+Cybersecurity Week in Review: May 15th to 21st, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 21 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/23/cisa-adds-21-known-exploited-vulnerabilities-catalog
+
+There are 1660 CVEs so far for the month of May 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/5
+
+CISA Issues Emergency Directive and Releases Advisory Related to VMware Vulnerabilities.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/18/cisa-issues-emergency-directive-and-releases-advisory-related
+
+FTC takes position in some cases there may be a de facto data breach notification requirement, despite there currently being no section of the Federal Trade Commission Act or regulation.
+https://www.natlawreview.com/article/ftc-blog-ftc-act-creates-de-facto-breach-disclosure-requirement
+
+CISA has released an analysis and infographic detailing the findings from the 112 Risk and Vulnerability Assessments (RVAs) conducted across multiple sectors in Fiscal Year 2021 (FY21).
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/19/cisa-releases-analysis-fy21-risk-and-vulnerability-assessments
+
+Legislation Promoting Cyber Collaboration Between DHS and States Awaits Biden Signature.
+https://www.nextgov.com/cybersecurity/2022/05/legislation-promoting-cyber-collaboration-between-dhs-and-states-awaits-biden-signature/367104
+
+FTC warns it will go after ed tech companies misusing children's data.
+https://www.cyberscoop.com/ed-tech-ftc-coppa
+
+The Department of Justice (DOJ) on Thursday announced that it would reverse its policy on issuing charges for violations of a federal computer fraud law, saying that it will not prosecute “good-faith security research” efforts.
+https://thehill.com/policy/technology/3494668-doj-reverses-controversial-policy-on-cybersecurity-prosecutions
+
+The UK government has laid out its cybersecurity plans for the country’s civil nuclear sector, focused on more testing, security by design and improved collaboration.
+https://www.infosecurity-magazine.com/news/uk-sets-out-nuclear-cybersecurity
+
+Senators ask FTC to investigate ID.me for deceptive business practices.
+https://www.cyberscoop.com/senators-id-me-ftc-deceptive-practices-wyden
+
+DHS halts Disinformation Governance Board amid strong backlash.
+https://www.cyberscoop.com/dhs-pauses-disinformation-governance-board
+
+The cybersecurity authorities of the US, Canada, New Zealand, the Netherlands, and UK have issued a joint Cybersecurity Advisory on 10 routinely exploited weak security controls, poor configurations, and bad practices that allow malicious actors to compromise networks.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/17/weak-security-controls-and-practices-routinely-exploited-initial
+
+
+Threats and Actors:
+__________________
+
+Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execution.
+https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-apple-products-could-allow-for-arbitrary-code-execution_2022-070
+
+Microsoft has warned against brute-force attacks targeting poorly secured and Internet-exposed Microsoft SQL Server (MSSQL) database servers, by targeting weak passwords.
+https://cyware.com/news/new-wave-of-brute-force-attacks-target-sql-servers-microsoft-warns-d31b0eb4
+
+A new variant of the macOS malware tracked as UpdateAgent has been spotted in the wild, indicating ongoing attempts on the part of its authors to upgrade its functionalities.
+https://thehackernews.com/2022/05/updateagent-returns-with-new-macos.html
+
+A widespread, critical vulnerability affecting Zyxel firewalls is being exploited by hackers, according to several researchers and the director of cybersecurity for the NSA.
+https://therecord.media/researchers-nsa-cybersecurity-director-warn-of-hackers-targeting-zyxel-vulnerability
+
+Researchers have disclosed how cybercriminals abuse Discord as part of a popular attack chain employing a new SYK Crypter. The crypter can evade behavior and signature-based security controls.
+https://cyware.com/news/new-syk-crypter-propagates-via-discord-d5115d1e
+
+This Russian botnet does far more than DDoS attacks - and on a massive scale. Operators can track social media trends and tailor their propaganda to suit.
+https://www.zdnet.com/article/russian-fronton-botnet-spreads-misinformation-on-a-massive-scale
+
+Cobalt Mirage Targets Entities Globally Using BitLocker and DiskCryptor. A ransomware group with an operational connection with Iran has been associated with a set of ransomware attacks.
+https://cyware.com/news/cobalt-mirage-targets-entities-globally-using-bitlocker-and-diskcryptor-a529f8ec
+
+Researchers have disclosed a set of vulnerabilities in Jupiter Theme and JupiterX Core plugins for WordPress. One of the disclosed vulnerabilities is a critical privilege escalation flaw that allows attackers to take over the compromised websites.
+https://cyware.com/news/critical-flaws-in-jupiter-wordpress-plugin-816bd8f7
+
+Cytrox's Predator Spyware Targeted Android Users with Zero-Day Exploits.
+https://thehackernews.com/2022/05/cytroxs-predator-spyware-target-android.html
+
+Google last month addressed a high-severity flaw in its OAuth client library for Java that could be abused by a malicious actor with a compromised token to deploy arbitrary payloads.
+https://thehackernews.com/2022/05/high-severity-bug-reported-in-googles.html
+
+Microsoft: This botnet is growing fast and hunting for servers with weak passwords. Protect your Linux servers from XorDdos, a botnet scanning the internet for SSH servers with weak passwords.
+https://www.zdnet.com/article/microsoft-this-botnet-is-growing-fast-and-hunting-for-servers-with-weak-passwords
+
+Conti ransomware shuts down operation, rebrands into smaller units.
+https://www.bleepingcomputer.com/news/security/conti-ransomware-shuts-down-operation-rebrands-into-smaller-units
+
+First detected in 2017, Wizard Spider has come a long way. The threat actor is known for its various malware variants, such as Conti, TrickBot, and Ryuk.  A recent investigation by Prodaft revealed that the gang is one of the wealthiest ones and its assets exceed hundreds of millions of dollars.
+https://cyware.com/news/new-details-about-wizard-spider-emerge-6dcc3623
+
+APTs Overwhelmingly Share Known Vulnerabilities Rather Than Attack O-Days.
+https://threatpost.com/apts-overwhelmingly-share-known-vulnerabilities-rather-than-attack-o-days/179657
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Texas Department of Insurance leak went undetected for three years — state audit.
+https://www.databreaches.net/texas-department-of-insurance-leak-went-undetected-for-three-years-state-audit
+
+AvosLocker Claims Data Theft From Another Healthcare Entity. Ransomware Group Leaks Alleged Sample of Stolen Cancer Patient Info.
+https://www.govinfosecurity.com/avoslocker-claims-data-theft-from-another-healthcare-entity-a-19083
+
+Data of 22.5 million Malaysians born 1940-2004 allegedly being sold for US$10k.
+https://www.straitstimes.com/asia/se-asia/data-of-225-million-malaysians-born-1940-2004-allegedly-being-sold-for-us10k
+
+Pharmacy retailer Dis-Chem recently announced that it had been hit by a data breach affecting the personal details of 3.6 million customers.
+https://www.infosecurity-magazine.com/news/pharmacy-giant-data-breach
+
+Vice Society claims to have acquired patient files from Atlanta Perinatal Associates.
+https://www.databreaches.net/vice-society-claims-to-have-acquired-patient-files-from-atlanta-perinatal-associates
+
+The New York City Education Department is planning to roll out its own online grading and attendance system to replace a widely-used platform that was hacked earlier this year, exposing the personal information of nearly one million students.
+https://www.databreaches.net/nyc-education-dept-will-roll-out-its-own-online-gradebook-after-security-breach-and-data-hack
+
+Arnprior Regional Health says it has been the target of a cyber attack that has breached data dating back to decades ago.
+https://www.databreaches.net/ca-big-data-breach-confirmed-at-arnprior-regional-health
+
+Publishing giant Nikkei disclosed that the group's headquarters in Singapore was hit by a ransomware attack almost one week ago, on May 13, 2022.
+https://www.bleepingcomputer.com/news/security/media-giant-nikkei-s-asian-unit-hit-by-ransomware-attack
+
+Cyberattacks on K-12 schools across the U.S. continued this week with both the Fort Sumner Municipal Schools in New Mexico and Washington Local Schools in Ohio suffering from incidents.
+https://therecord.media/k-12-cyberattacks-new-mexico-ohio
+
+Cyber investigators at Mandiant say they’re actively responding to more than a dozen live intrusions by Russian foreign intelligence services aimed at diplomats, military computers, defense contractors and others.
+https://www.bloomberg.com/news/newsletters/2022-05-18/russian-hacking-continues-with-mandiant-now-investigating-at-least-12
+
+Greenland says health services ‘severely limited’ after cyberattack.
+https://therecord.media/greenland-cyberattack-healthcare-systems
+
+Chicago Public Schools data breach blamed on ransomware attack on supplier.
+https://portswigger.net/daily-swig/chicago-public-schools-data-breach-blamed-on-ransomware-attack-on-supplier
+
+
+In the News:
+___________
+
+Canada to ban Huawei and ZTE and tell telcos to rip out 5G and 4G equipment.
+https://www.zdnet.com/article/canada-to-ban-huawei-and-zte-and-tell-telcos-to-rip-out-5g-and-4g-equipment
+
+Phishing attacks are now using automated chatbots to guide visitors through the process of handing over their login credentials to threat actors.
+https://www.bleepingcomputer.com/news/security/phishing-websites-now-use-chatbots-to-steal-your-credentials
+
+380K Kubernetes API Servers Exposed to Public Internet. More than 380,000 of the 450,000-plus servers hosting the open-source container-orchestration engine for managing cloud deployments allow some form of access.
+https://threatpost.com/380k-kubernetes-api-servers-exposed-to-public-internet/179679
+
+Costa Rican President Rodrigo Chaves has said that his country is “at war” with the Conti ransomware gang, according to local media.
+https://siliconangle.com/2022/05/20/costa-ricas-president-says-country-war-conti-ransomware-gang
+
+Trust Stamp, a facial recognition company with a $7.2 million ICE contract, had dozens of peoples’ data exposed in breach.
+https://www.databreaches.net/trust-stamp-a-facial-recognition-company-with-a-7-2-million-ice-contract-had-dozens-of-peoples-data-exposed-in-breach
+
+Italy prevents pro-Russian hacker attacks during Eurovision contest.
+https://www.reuters.com/world/europe/italian-police-prevents-pro-russian-hacker-attacks-during-eurovision-contest-2022-05-15
+
+Uber CISO's trial underscores the importance of truth, transparency, and trust. Failure to adhere to the three T’s can have serious consequences, as this case shows.
+https://www.csoonline.com/article/3660560/uber-cisos-trial-underscores-the-importance-of-truth-transparency-and-trust.html
+
+Firefox Browser Hacked In 8 Seconds Using 2 Critical Security Flaws.
+https://www.forbes.com/sites/daveywinder/2022/05/22/firefox-browser-hacked-in-8-seconds-using-2-critical-security-flaws
+
+FBI Wiretap Opens Window To Murderous Drug Gang—And A Crucial Flaw In Snapchat Privacy.
+https://www.forbes.com/sites/thomasbrewster/2022/05/23/fbi-snapchat-surveillance-exposes-a-murderous-mexican-gang-and-snaps-weakness
+
+Blockchain bridge Wormhole pays record $10m bug bounty reward.
+https://portswigger.net/daily-swig/blockchain-bridge-wormhole-pays-record-10m-bug-bounty-reward
+
+New South Wales government Digital Drivers License Security appears to be Super Bad.
+https://blog.dvuln.com/blogs/servicensw-digital-superbad
+
+New Unpatched Bug Could Let Attackers Steal Money from PayPal Users.
+https://thehackernews.com/2022/05/paypal-pays-hacker-200000-for.html
