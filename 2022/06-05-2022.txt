@@ -1,0 +1,127 @@
+Cybersecurity Week in Review: June 05th to June 11th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 3 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog
+
+There 850 CVEs so far for the month of June 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/6
+
+CISA, NSA, and FBI release advisory on People’s Republic of China state-sponsored cyber actors exploit network providers and devices.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/07/peoples-republic-china-state-sponsored-cyber-actors-exploit
+
+Multifactor authentication could be long haul for some federal agencies, CISA official says.
+https://www.cyberscoop.com/multifactor-authentication-cisa-eric-goldstein-federal-legacy-it
+
+Experts, NSA cyber director say ransomware could threaten campaigns in 2022.
+https://www.cyberscoop.com/election-security-microsoft-phishing-google-ransomware
+
+US Justice Department offers blueprint for more ‘innovative, secure IT capabilities’.
+https://portswigger.net/daily-swig/us-justice-department-offers-blueprint-for-more-innovative-secure-it-capabilities
+
+
+Threats and Actors:
+__________________
+
+Researchers Disclose Rooting Backdoor in Mitel IP Phones for Businesses.
+https://thehackernews.com/2022/06/researchers-disclose-rooting-backdoor.html
+
+BPFDoor is a piece of malware associated with China-based threat actor Red Menshen that has hit mostly Linux operating systems. It's undetected by firewalls and goes unnoticed by most detection systems.
+https://thehackernews.com/2022/06/quick-and-simple-bpfdoor-explained.html
+
+Cuba ransomware, first observed in February 2020, reportedly attacked 49 organizations across five critical infrastructure sectors and raked around $43.9 million in ransom, in 2021. The operation is now back with a new malware variant.
+https://cyware.com/news/cuba-ransomware-is-back-with-an-updated-encryptor-be728ab2
+
+PyPI package 'keep' mistakenly included a password stealer.
+https://www.bleepingcomputer.com/news/security/pypi-package-keep-mistakenly-included-a-password-stealer
+
+HelloXD Ransomware Installing Backdoor on Targeted Windows and Linux Systems.
+https://thehackernews.com/2022/06/hello-xd-ransomware-installing-backdoor.html
+
+Symbiote is a new sophisticated malware that has been observed infecting all running processes on Linux systems. The malware is under active development since last year.
+https://cyware.com/news/symbiote-a-new-malware-targeting-linux-systems-af92ba14
+
+Iranian Hackers Spotted Using a new DNS Hijacking Malware in Recent Attacks.
+https://thehackernews.com/2022/06/iranian-hackers-spotted-using-new-dns.html
+
+Emotet Goes After Google Chrome Users to Steal Credit Card Details.
+https://cyware.com/news/emotet-goes-after-google-chrome-users-to-steal-credit-card-details-f1a3c676
+
+Apple M1 chip contains hardware vulnerability that bypasses memory defense.
+https://news.mit.edu/2022/researchers-discover-hardware-vulnerability-apple-m1-0610
+
+New Variant of Black Basta Targets VMware ESXi Servers.
+https://cyware.com/news/new-variant-of-black-basta-targets-vmware-esxi-servers-1a158eec
+
+8 zero-day vulnerabilities discovered in popular industrial control system from Carrier.
+https://therecord.media/8-zero-day-vulnerabilities-discovered-in-popular-industrial-control-system-from-carrier
+
+Researchers have observed new malicious spam campaigns spread by a malware family named SVCReady. The attacks have been ongoing since April and use unusual ways of malware delivery via Microsoft Word.
+https://cyware.com/news/svcready-a-new-malware-in-the-threat-landscape-c299d39d
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+The FBI seized an illicit marketplace that has made millions selling the personal data of roughly 24 million U.S. citizens, according to the Justice Department.
+https://www.cyberscoop.com/ssndob-darkweb-jokers-stash
+
+Chinese hackers exploited years-old software flaws to break into telecom giants. A multi-year hacking campaign shows how dangerous old flaws can linger for years.
+https://www.technologyreview.com/2022/06/08/1053375/chinese-hackers-exploited-years-old-software-flaws-to-break-into-telecom-giants
+
+Ransomware gangs are targeting recently patched and actively exploited RCE vulnerability affecting Atlassian Confluence Server and Data Center instances for initial access to corporate networks.
+https://www.bleepingcomputer.com/news/security/confluence-servers-hacked-to-deploy-avoslocker-cerber2021-ransomware
+
+Kaiser Permanente data breach exposed healthcare records of 70,000 patients.
+https://portswigger.net/daily-swig/kaiser-permanente-data-breach-exposed-healthcare-records-of-70-000-patients
+
+Russian Radio Station Hacked to Broadcast Ukrainian National Anthem.
+https://www.hackread.com/russian-radio-station-hacked-with-ukraine-national-anthem
+
+Vice Society ransomware claims attack on Italian city of Palermo.
+https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-italian-city-of-palermo
+
+More than 583,000 individuals have potentially been impacted by the Eye Care Leaders EMR data breach.
+https://healthitsecurity.com/news/8-more-orgs-added-to-eye-care-leaders-emr-data-breach-tally
+
+Shields Health Care Group data breach affects 2 million patients.
+https://www.bleepingcomputer.com/news/security/shields-health-care-group-data-breach-affects-2-million-patients
+
+
+In the News:
+___________
+
+Wiz at RSA Conference presented that pretty much every cloud provider is installing secret middleware or open management infrastructure software "without customer's awareness or explicit consent."
+https://www.wiz.io/blog/the-cloud-gray-zone-secret-agents-installed-by-cloud-service-providers
+
+Rep. Jim Langevin, D-R.I., is sounding the alarm over what he describes as continued inaction by the Environmental Protection Agency (EPA) to bolster the water sector’s cybersecurity defenses.
+https://www.cyberscoop.com/water-sector-cyberspace-solarium-commission-epa
+
+MongoDB claims its new “Queryable Encryption” lets users search their databases while sensitive data stays encrypted. Oh, and its cryptography is open source.
+https://www.wired.com/story/mongodb-queryable-encryption-databases
+
+ENCSecurity markets a file encryption system, and it’s used by SanDisk, Sony, Lexar, and probably others. Despite it using AES as its algorithm, it’s implementation is flawed in multiple ways—and breakable.
+https://www.schneier.com/blog/archives/2022/06/cryptanalysis-of-encsecuritys-encryption-implementation.html
+
+Cloud data breaches, 4 biggest threats to cloud storage security: file-based malware, weak IAM policies, insecure APIs, misconfiguration.
+https://blog.malwarebytes.com/business/2022/06/cloud-data-breaches-4-biggest-threats-to-cloud-storage-security
+
+Google places engineer on leave after he claims group’s chatbot is “sentient”. Blake Lemoine ignites social media debate over advances in artificial intelligence.
+https://arstechnica.com/science/2022/06/google-places-engineer-on-leave-after-he-claims-groups-chatbot-is-sentient
+
+The Tricky Business of Elon Musk Getting Twitter Fire-Hose Access. Twitter has reportedly given the billionaire access to its full stream of tweets and related user data. Is your privacy in jeopardy?
+https://www.wired.com/story/elon-musk-twitter-firehose
+
+GitHub open sources Entitlements IAM system, built as a Git repository.
+https://www.csoonline.com/article/3663429/github-open-sources-entitlements-iam-sytem-built-as-a-git-repository.html
+
+How a Saxophonist Tricked the KGB by Encrypting Secrets in Music. Using a custom encryption scheme based on musical notation, US musicians smuggled information into and out of the USSR.
+https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra
+
+Hackers Can Steal Your Tesla by Creating Their Own Personal Keys.
+https://www.wired.com/story/tesla-hack-personal-nfc-key-card
