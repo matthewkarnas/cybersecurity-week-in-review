@@ -1,0 +1,164 @@
+Cybersecurity Week in Review: May 22nd to June 04th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+There are 2036 CVEs for the month of May 2022, and 427 CVEs so far for the month of June 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/5
+https://nvd.nist.gov/vuln/full-listing/2022/6
+
+CISA and DoD Release 5G Security Evaluation Process Investigation Study.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/26/cisa-and-dod-release-5g-security-evaluation-process-investigation
+
+Microsoft released workaround to address a remote code execution vulnerability, CVE-2022-30190, known as "Follina". A remote, unauthenticated attacker could exploit this vulnerability to take control of an affected system.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/05/31/microsoft-releases-workaround-guidance-msdt-follina-vulnerability
+
+CISA, FBI, DOT, and the Financial Crimes Enforcement Network (FinCEN) have released a joint Cybersecurity Advisory to provide information on the Karakurt data extortion group. Karakurt actors steal data and threaten to auction it off or release it to the public unless they receive payment of the demanded ransom.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/01/karakurt-data-extortion-group
+
+The U.S. is setting up a Joint Ransomware Task Force, headed by the Cybersecurity and Infrastructure Security Agency and the FBI, as well as two international initiatives, chaired by the Department of Justice, to tackle illegal cryptocurrency activities related to ransomware.
+https://www.govinfosecurity.com/us-sets-up-multiagency-initiatives-to-curb-ransomware-a-19121
+
+As cyber attacks on corporations and other institutions increase, the US Army is looking to increase its force of “cyber warriors” to guard against these threats.
+https://www.thedefensepost.com/2022/05/24/us-army-increase-cyber-force
+
+The US government lacks comprehensive data on ransomware attacks, including how much is lost in payments, according to a new report by the United States Senate Committee on Homeland Security & Governmental Affairs.
+https://www.infosecurity-magazine.com/news/us-government-data-ransomware
+
+Head of DOD artificial intelligence command warns Pentagon must improve to beat China on AI.
+https://www.cyberscoop.com/head-of-dod-artificial-intelligence-pentagon-must-improve
+
+FBI asks for more than $100M in cyber and data-related increases for 2023.
+https://www.cyberscoop.com/fbi-cyber-budget-increase-request-2023
+
+
+Threats and Actors:
+__________________
+
+LuoYu, a Chinese-speaking hacking group, is infecting victims with the WinDealer information stealer that installs backdoors to maintain persistence. The stealer performs man-on-the-side attacks.
+https://cyware.com/news/luoyu-deploys-infostealer-via-fake-app-updates-ea0ba644
+
+Researchers are warning against ongoing attacks by an Android malware that subscribes victims to premium services. The malware, named SMSFactory, attempts to infect tens of thousands of users across eight countries.
+https://cyware.com/news/smsfactory-targets-android-users-across-eight-countries-6c2b9618
+
+The financially-motivated threat cluster, Evil Corp aka UNC2165, has again updated its attack methods in response to sanctions prohibiting U.S. companies from paying a ransom.
+https://cyware.com/news/evil-corp-shifts-to-lockbit-to-evade-sanctions-486d6cb7
+
+A hacker group, named WatchDog, has launched a cryptojacking campaign against Docker instances. The group is targeting exposed or poorly secured Docker Engine API endpoints and Redis servers.
+https://cyware.com/news/watchdog-targets-docker-and-redis-servers-in-new-cryptojacking-campaign-a5681a92
+
+Let's see this mechanic in action as we follow an actual CyberSOC analyst investigating the case of the malware dubbed "Trickbot."
+https://thehackernews.com/2022/05/malware-analysis-trickbot.html
+
+New 'GoodWill' Ransomware Forces Victims to Donate Money and Clothes to the Poor.
+https://thehackernews.com/2022/05/new-goodwill-ransomware-forces-victims.html
+
+3.6M MySQL Servers Found Exposed Online.
+https://www.darkreading.com/vulnerabilities-threats/3-6m-plus-mysql-servers-with-ipv4-ipv6-addresses-exposed-scan-shows
+
+A cybercriminal is targeting security researchers with fake Windows Proof-of-Concept (PoC) exploits. These fake exploits infect targeted devices with the Cobalt Strike backdoor.
+https://cyware.com/news/windows-exploits-used-to-target-infosec-community-91ff2991
+
+Dozens of high-traffic websites vulnerable to ‘account pre-hijacking’, study finds.
+https://portswigger.net/daily-swig/dozens-of-high-traffic-websites-vulnerable-to-account-pre-hijacking-study-finds
+
+New Zoom Flaws Could Let Attackers Hack Victims Just by Sending them a Message.
+https://thehackernews.com/2022/05/new-zoom-flaws-could-let-attackers-hack.html
+
+New cybercrime outfit that goes by the name of RansomHouse. It is a data extortion gang that is targeting organizations, exfiltrating their data, and offering to delete it - all for a price.
+https://cyware.com/news/ransomhouse-new-data-extortion-gang-11b9c2c7
+
+How the Saitama backdoor uses DNS tunnelling, hiding messages inside ordinary-looking DNS requests.
+https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling
+
+There’s a constant effort from ransomware developers to enhance their malware for its improved efficacy. Two new ransomware variants, identified as Yashma and Nokoyawa, have been discovered lately in the wild.
+https://cyware.com/news/new-chaos-and-nokoyawa-ransomware-variants-found-d0af4dfa
+
+A new version of XLoader malware, capable of obscuring the C2 infrastructure, has been spotted in the wild. The malware is a successor of Formbook malware and was first discovered in 2021 on the dark web.
+https://cyware.com/news/xloader-malware-evolved-to-hide-its-c2-servers-f62d3643
+
+GitLab Issues Security Patch for Critical Account Takeover Vulnerability.
+https://thehackernews.com/2022/06/gitlab-issues-security-patch-for.html
+
+Researchers have spotted a new wave of DDoS attacks launched by the Russia-linked APT-C-53 aka Gamaredon. Further, the attackers have open-sourced the code of a DDoS Trojan called LOIC.
+https://cyware.com/news/gamaredon-prepares-for-next-wave-of-ddos-attacks-11ddb3db
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Chinese Hackers Begin Exploiting Latest Microsoft Office Zero-Day Vulnerability.
+https://thehackernews.com/2022/05/chinese-hackers-begin-exploiting-latest.html
+
+Turkish airline suffers 6.5TB data leak. The personal information of crew members, source code and flight data has been exposed by mistake.
+https://www.itsecurityguru.org/2022/06/01/turkish-airline-suffers-6-5tb-data-leak
+
+Your Tim Hortons Coffee App Knew Where You Were at All Times. The Canada-based company illegally collected “vast amounts of location data,” such as every time a person entered or left their home, workplace, or another coffee shop.
+https://www.wired.com/story/tim-hortons-coffee-app-location-data-tracking
+
+Hackers breach Zola wedding registry accounts and make fraudulent purchases. The company says that cash transfers were blocked but that it is aware of unauthorized gift card orders.
+https://www.theverge.com/2022/5/23/23137944/zola-wedding-hack-gift-card-fraudulent-transfer
+
+General Motors suffered a hack that exposed a significant amount of sensitive personal information on car owners—names, addresses, phone numbers, locations, car mileage, and maintenance history.
+https://www.databreaches.net/hackers-know-where-youve-been-driving-general-motors-discloses-data-breach
+
+142 Million MGM Resorts Records Leaked on Telegram for Free Download.
+https://www.hackread.com/142-million-mgm-resorts-records-leak-telegram-download
+
+Hacker Steals Database of Hundreds of Verizon Employees.
+https://www.vice.com/en/article/wxdwxn/hacker-steals-database-of-hundreds-of-verizon-employees
+
+GitHub revealed today that an attacker stole the login details of roughly 100,000 npm accounts during a mid-April security breach with the help of stolen OAuth app tokens issued to Heroku and Travis-CI.
+https://www.bleepingcomputer.com/news/security/github-attackers-stole-login-details-of-100k-npm-user-accounts
+
+Latest cyberattack in Costa Rica targets hospital system.
+https://www.reuters.com/world/americas/latest-cyberattack-costa-rica-targets-hospital-system-2022-05-31
+
+Portland, Ore. is investigating a cybersecurity breach that resulted in a $1.4 million fraudulent transaction with city funds in April — one discovered after the same compromised account tried again the next month.
+https://therecord.media/cybercriminal-scams-city-of-portland-ore-for-1-4-million
+
+Ransomware attack turns 2022 into 1977 for Somerset County.
+https://blog.malwarebytes.com/ransomware/2022/06/ransomware-attack-turns-2022-into-1977-for-somerset-county
+
+Cybercriminals claim to have breached the systems of an important Foxconn factory in Mexico and they are threatening to leak stolen files if the company doesn’t pay a ransom.
+https://www.securityweek.com/ransomware-group-claims-have-breached-foxconn-factory
+
+A ransomware gang is taking extortion to a new level by publicly hacking corporate websites to publicly display ransom notes.
+https://www.bleepingcomputer.com/news/security/ransomware-gang-now-hacks-corporate-websites-to-show-ransom-notes
+
+Cybercriminals have targeted hundreds of Elasticsearch databases and replaced 450 indexes with ransom notes. The ransom demands total $279,000, with the average demand being $620.
+https://cyware.com/news/several-elasticsearch-databases-attacked-for-ransom-92160ded
+
+
+In the News:
+___________
+
+Attackers Can Use Electromagnetic Signals to Control Touchscreens Remotely.
+https://thehackernews.com/2022/05/attackers-can-use-electromagnetic.html
+
+DuckDuckGo Isn’t as Private as You Think. DuckDuckGo made an exception for its business partner Microsoft to its browser's blocking of some advertising trackers on websites.
+https://www.wired.com/story/duckduckgo-microsoft-twitter-ft-bush-assassination-whatsapp
+
+An enhanced version of the XLoader malware has been spotted adopting a probability-based approach to camouflage its command-and-control (C&C) infrastructure, according to the latest research.
+https://thehackernews.com/2022/06/new-xloader-botnet-version-using.html
+
+The Race to Hide Your Voice. Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy.
+https://www.wired.com/story/voice-recognition-privacy-speech-changer
+
+Using Python to unearth a goldmine of threat intelligence from leaked chat logs.
+https://www.microsoft.com/security/blog/2022/06/01/using-python-to-unearth-a-goldmine-of-threat-intelligence-from-leaked-chat-logs
+
+OPM's $63 million breach settlement offer: Is it enough? The nature and scope of the data stolen in the U.S. Office of Personnel Management presents a life-long risk to victims, who might get as little as $700 if the court accepts the settlement.
+https://www.csoonline.com/article/3662158/opms-63-million-breach-settlement-offer-is-it-enough.html
+
+An actively exploited Microsoft 0-day flaw still doesn’t have a patch. Microsoft downplays severity of vulnerability in all supported versions of Windows.
+https://arstechnica.com/information-technology/2022/06/an-actively-exploited-microsoft-0day-flaw-still-doesnt-have-a-patch
+
+Experts reveal the average ransomware attack takes just 3 days.
+https://venturebeat.com/2022/06/01/ransomware-3-days
+
+Verizon 2022 Data Breach Investigations Report is out.
+https://www.verizon.com/business/resources/reports/dbir
