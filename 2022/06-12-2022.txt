@@ -1,0 +1,184 @@
+Cybersecurity Week in Review: June 12th to June 18th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 1 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/cisa-adds-one-known-exploited-vulnerability-catalog
+
+There 1678 CVEs so far for the month of June 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/6
+
+For the first time, there is the prospect of comprehensive privacy protection that actually could be enacted into law.
+https://thehill.com/opinion/cybersecurity/3527673-push-comes-to-shove-on-privacy-legislation
+
+The Department of Energy released its national Cyber-Informed Engineering Strategy that provides guidance for building resilient energy systems that can withstand cyber-attacks.
+https://www.nextgov.com/cybersecurity/2022/06/energy-department-releases-strategy-build-cyber-resilient-energy-systems/368333/
+
+Microsoft released a fix Follina, a high-severity flaw. It is suggested that organizations diligently deploy the patch to be fully secure.
+https://cyware.com/news/follina-patch-finally-out-e97ce752
+
+CISA has released Trusted Internet Connections (TIC) 3.0 Cloud Use Case for public comment. TIC is a federal cybersecurity initiative intended to secure federal data, networks, and boundaries.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/16/cisa-requests-public-comment-cisas-tic-30-cloud-use-case
+
+House subcommittee approves $334 million funding bump for CISA.
+https://thehill.com/policy/cybersecurity/3526827-house-subcommittee-approves-334-million-funding-bump-for-cisa
+
+CISA will become the Root CNA for industrial control systems (ICS) and medical devices.
+https://www.cisa.gov/uscert/ics/rootCNA
+
+OMB guidance presents chance to standardize software bill of materials.
+https://www.fedscoop.com/omb-guidance-software-bill-of-materials
+
+National Cyber Director Chris Inglis said his office is reviewing legislation that would require providers of critical information and communications technology to make certain security features standard.
+https://www.nextgov.com/cybersecurity/2022/06/national-cyber-director-mandates-coming-secure-commercial-information-technology/368111
+
+CISA details new “FEIT” advisors helping agencies improve cyber defenses
+https://federalnewsnetwork.com/cybersecurity/2022/06/cisa-details-new-feit-advisors-helping-agencies-improve-cyber-defenses
+
+
+Threats and Actors:
+__________________
+
+Researchers Disclose 56 Vulnerabilities Impacting OT Devices from 10 Vendors.
+https://thehackernews.com/2022/06/researchers-disclose-56-vulnerabilities.html
+
+A Vulnerability in Splunk Enterprise Deployment Servers Could Allow for Arbitrary Code Execution.
+https://www.cisecurity.org/advisory/a-vulnerability-in-splunk-enterprise-deployment-servers-could-allow-for-arbitrary-code-execution_2022-083
+
+Researchers at identity security firm CyberArk this week shared technical information on an RDP named pipe vulnerability in Windows for which Microsoft had to release two rounds of patches.
+https://www.securityweek.com/details-twice-patched-windows-rdp-vulnerability-disclosed
+
+A Vulnerability in Cisco Email Security Appliance, Cisco Secure Email & Web Manager Could Allow for an Authentication Bypass - PATCH NOW.
+https://www.cisecurity.org/advisory/a-vulnerability-in-cisco-email-security-appliance-cisco-secure-email-web-manager-could-allow-for-an-authentication-bypass---patch-now---tlp-white_2022-082
+
+New kind of Windows NTLM relay attack dubbed DFSCoerce leverages the Distributed File System (DFS): Namespace Management Protocol (MS-DFSNM) to seize control of a domain.
+https://thehackernews.com/2022/06/new-ntlm-relay-attack-lets-attackers.html
+ 
+Office 365 Config Loophole Opens OneDrive, SharePoint Data to Ransomware Attack.
+https://threatpost.com/office-365-opens-ransomware-attacks-on-onedrive-sharepoint/180010
+
+Scroll to Text Fragment (STTF), a feature that can be used to directly browse to a specific text fragment on a webpage, can be exploited to leak sensitive user information.
+https://portswigger.net/daily-swig/attackers-can-use-scroll-to-text-fragment-web-browser-feature-to-steal-data-research
+
+Critical Citrix ADM vulnerability creates means to reset admin passwords.
+https://portswigger.net/daily-swig/critical-citrix-adm-vulnerability-creates-means-to-reset-admin-passwords
+
+ToddyCat is a relatively new APT actor, responsible for multiple sets of attacks detected since December 2020 against high-profile entities in Europe and Asia.
+https://securelist.com/toddycat/106799
+
+DeadBolt Ransomware Actively Targets QNAP NAS Devices. The QNAP network-connected devices, used to store video surveillance footage, are a juicy target for attackers.
+https://www.darkreading.com/attacks-breaches/deadbolt-ransomware-actively-targets-qnap-nas-devices----again
+
+BlackCat Launches Dedicated Site for Victims to Search Their Stolen Data.
+https://cyware.com/news/blackcat-launches-dedicated-site-for-victims-to-search-their-stolen-data-7014b064
+
+Atlassian Confluence Flaw Being Used to Deploy Ransomware and Crypto Miners.
+https://thehackernews.com/2022/06/atlassian-confluence-flaw-being-used-to.html
+
+Chinese Hackers Abuse Zero-day Bug in Sophos Firewall.
+https://cyware.com/news/chinese-hackers-abuse-zero-day-bug-in-sophos-firewall-4cd59594
+
+PACMAN Attack Targets Apple M1 Chip Embedded CPUs.
+https://cyware.com/news/pacman-attack-targets-apple-m1-chip-embedded-cpus-3d9d9248
+
+Microsoft: Ransomware gangs are using unpatched Exchange servers to gain access, so get updating
+https://www.zdnet.com/article/microsoft-ransomware-gangs-are-using-unpatched-exchange-servers-to-gain-access-so-get-updating
+
+New Hertzbleed Attack Impacts Almost All Modern Intel and AMD Processors.
+https://cyware.com/news/new-hertzbleed-attack-impacts-almost-all-modern-intel-and-amd-processors-6bae0cc6
+
+Over a Million WordPress Sites Forcibly Updated to Patch a Critical Plugin Vulnerability.
+https://thehackernews.com/2022/06/over-million-wordpress-sites-forcibly.html
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+RansomHouse, a ransomware gang, has claimed responsibility for the cyberattack on Shoprite, Africa’s largest retailer.
+https://techcrunch.com/2022/06/20/ransonware-ring-claims-attack-on-africas-largest-retail-chain-shoprite
+
+US Man Sentenced to Nine Years in Prison After Hacking Thousands of iCloud Accounts.
+https://www.itsecurityguru.org/2022/06/20/us-man-sentenced-to-nine-years-in-prison-after-hacking-thousands-of-icloud-accounts
+
+A 33-year-old man from St. Charles, Illinois, was sentenced to two years in prison for running websites that provide powerful distributed denial-of-service (DDoS) attacks.
+https://blog.malwarebytes.com/cybercrime/2022/06/ddos-for-hire-service-provider-jailed
+
+German Greens party’s emails compromised by hackers. The party’s co-leaders were among the victims of the hacking.
+https://www.politico.eu/article/german-greens-partys-emails-compromised-by-hackers
+
+Hackers stole Social Security numbers in Flagstar data breach affecting 1.5 million customers.
+https://techcrunch.com/2022/06/21/flagstar-bank-social-security-numbers
+
+Ex-Amazon employee convicted over data breach of 100 million CapitalOne customers.
+https://techcrunch.com/2022/06/21/amazon-paige-thompson-capitalone-breach
+
+Texas Tech Health Science Center's vendor breach affects 1.2 million patients.
+https://www.beckershospitalreview.com/cybersecurity/texas-tech-health-science-center-s-vendor-breach-affects-1-2-million-patients.html
+
+Vulnerabilities in the web interface of Jacuzzi’s SmartTub app could have enabled an attacker to view and potentially manipulate personal data.
+https://portswigger.net/daily-swig/jacuzzi-customer-details-could-be-exposed-by-smarttub-web-bugs-claims-researcher
+
+Two more lenders have disclosed data breaches that occurred in December, with one of the attacks impacting nearly 86,000 customers.
+https://www.nationalmortgagenews.com/news/lower-reveals-data-breach-impacting-86-000-customers
+
+Staffing Firm Robert Half Says Hackers Targeted Over 1,000 Customer Accounts.
+https://www.securityweek.com/staffing-firm-robert-half-says-hackers-targeted-over-1000-customer-accounts
+
+Chinese Hackers Exploited Critical Security Vulnerability in Sophos Firewall.
+https://www.itsecurityguru.org/2022/06/17/chinese-hackers-exploited-critical-security-vulnerability-in-sophos-firewall
+
+Arizona hospital says SSNs of 700,000 people leaked during April ransomware attack.
+https://therecord.media/arizona-hospital-says-ssns-of-700000-people-leaked-during-april-ransomware-attack
+
+Email compromise leads to healthcare data breach at Kaiser Permanente.
+https://blog.malwarebytes.com/cybercrime/2022/06/email-compromise-leads-to-healthcare-data-breach-at-kaiser-permanente
+
+Data breach at US ambulance billing service Comstar exposed patients’ healthcare information.
+https://portswigger.net/daily-swig/data-breach-at-us-ambulance-billing-service-comstar-exposed-patients-healthcare-information
+
+Iranian Hacking Campaign that Included Former U.S. Ambassador.
+https://cyware.com/news/iranian-hacking-campaign-that-included-former-us-ambassador-1813699c
+
+Elasticsearch server with no password or encryption leaks a million records.
+https://www.theregister.com/2022/06/16/storehub_data_leak
+
+BeanVPN leaks 25 million user records with 20GB of connection logs accessible to the public.
+https://www.infosecurity-magazine.com/news/beanvpn-leaks-user-records
+
+Ransomware attack on Montrose Environmental Group disrupts lab testing services.
+https://portswigger.net/daily-swig/ransomware-attack-on-montrose-environmental-group-disrupts-lab-testing-services
+
+
+In the News:
+___________
+
+Report: 14.9 billion users have had personal data breached since 2004
+https://venturebeat.com/2022/06/15/report-14-9-billion-users-have-had-personal-data-breached-since-2004
+
+Space-based assets aren’t immune to cyberattacks. Russia's attack on Viasat satellites exposed how vulnerable space-based assets are.
+https://www.csoonline.com/article/3664070/space-based-assets-aren-t-immune-to-cyberattacks.html
+
+Hidden Anti-Cryptography Provisions in Internet Anti-Trust Bills.
+https://www.schneier.com/blog/archives/2022/06/hidden-anti-cryptography-provisions-in-internet-anti-trust-bills.html
+
+Authorities Shut Down Russian RSOCKS Botnet That Hacked Millions of Devices.
+https://thehackernews.com/2022/06/authorities-shut-down-russian-rsocks.html
+
+How the Federal Government Buys Our Cell Phone Location Data
+https://www.eff.org/deeplinks/2022/06/how-federal-government-buys-our-cell-phone-location-data
+
+FDNY Building Digital Firewall to Protect Emergency Workers From Cyber Attacks.
+https://www.itsecurityguru.org/2022/06/15/fdny-building-digital-firewall-to-protect-emergency-workers-from-cyber-attacks
+
+Your Deleted TikTok Content Can Still Be Used Against You By The FBI.
+https://www.forbes.com/sites/thomasbrewster/2022/06/15/your-deleted-tiktok-content-can-still-be-used-against-you-by-the-fbi
+
+Recent investigation in Germany claims Telegram is actively sharing user data with government agencies and also censoring content.
+https://restoreprivacy.com/telegram-sharing-user-data/
+
+U.S. marshal used controversial cell phone location service to illegally access data, DOJ says.
+https://www.cyberscoop.com/us-marshal-cell-phone-location-data-charged-securus
