@@ -1,0 +1,126 @@
+Cybersecurity Week in Review: June 19th to June 25th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 8 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/27/cisa-adds-eight-known-exploited-vulnerabilities-catalog
+
+Questions over Cyber Command support, operations raised in defense authorization bill.
+https://www.scmagazine.com/editorial/analysis/emerging-technology/questions-over-cyber-operations-military-support-raised-in-defense-authorization-bill
+
+Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems.
+https://www.cisa.gov/uscert/ncas/alerts/aa22-174a
+
+CISA Releases Cloud Security Technical Reference Architecture.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/23/cisa-releases-cloud-security-technical-reference-architecture
+
+Former Mandiant exec tapped to run CTIIC, ODNI's cyber threat intelligence center.
+https://www.cyberscoop.com/laura-gallante-ctiic-cyber-threat-integration-center-odni
+
+CISA held its third Cybersecurity Advisory Committee meeting in Austin, Texas where Committee members met and provided updates and key recommendations to CISA Director Jen Easterly on the work of its six subcommittees.  
+https://www.cisa.gov/news/2022/06/22/readout-cisas-third-cybersecurity-advisory-committee-meeting
+
+Biden signs cyber bills into law: 1.) establishes a program to allow cybersecurity professionals to rotate through multiple federal agencies, 2.) aims to improve coordination between the Department of Homeland Security and state and local governments on cybersecurity.
+https://thehill.com/policy/cybersecurity/3531553-biden-signs-cyber-bills-into-law
+
+Cybersecurity authorities from the United States, New Zealand, and the United Kingdom have released a joint Cybersecurity Information Sheet (CIS) on PowerShell.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/22/keeping-powershell-measures-use-and-embrace
+
+
+Threats and Actors:
+__________________
+
+Fancy Bear is pairing a known Microsoft flaw with a malicious document to load malware that nabs credentials from Chrome, Firefox and Edge browsers.
+https://threatpost.com/fancy-bear-nuke-threat-lure/180056/	
+
+LockBit ransomware affiliates are using an interesting trick to get people into infecting their devices by disguising their malware as copyright claims.
+https://www.bleepingcomputer.com/news/security/fake-copyright-infringement-emails-install-lockbit-ransomware
+
+CopperStealer Malware is Spreading Through Fake Cracks.
+https://cyware.com/news/copperstealer-malware-is-spreading-through-fake-cracks-13c88a3f
+
+New Activities of RIG Exploit Kit Observed.
+https://cyware.com/news/new-activities-of-rig-exploit-kit-observed-4e18e312
+
+China-Based Tropic Trooper Adopts New Malware Variants and Custom Encryption to Target Victims.
+https://cyware.com/news/china-based-tropic-trooper-adopts-new-malware-variants-and-custom-encryption-to-target-victims-1fb5ec86
+
+Phishing Alert: LNK-based Malware Distribution is on the Rise.
+https://cyware.com/news/phishing-alert-lnk-based-malware-distribution-is-on-the-rise-51c7958a
+
+Researchers: Oracle Took 6 Months to Patch 'Mega' Vulnerability Affecting Many Systems.
+https://www.securityweek.com/researchers-it-took-oracle-6-months-patch-mega-vulnerability-affecting-many-systems
+
+Researchers discovered malicious Python packages in the official third-party software repository that are engineered to exfiltrate AWS credentials and environment variables to a publicly exposed endpoint.
+https://thehackernews.com/2022/06/multiple-backdoored-python-libraries.html
+
+Updated Emotet banking trojan more effective, proliferates through Excel macros.
+https://www.scmagazine.com/analysis/malware/updated-emotet-banking-trojan-more-effective-proliferates-through-excel-macros
+
+ToddyCat APT Hacks Microsoft Exchange Servers.
+https://cyware.com/news/toddycat-apt-hacks-microsoft-exchange-servers-920f4b71
+
+Cisco has alerted customers to another four vulnerabilities in its products, including a high-severity flaw in its email and web security appliances.
+https://www.theregister.com/2022/06/22/cisco_bug_bundle/	
+
+The Conti cybercrime syndicate runs one of the most aggressive ransomware operations and has grown highly organized, affiliates were able to hack more than 40 companies in a little over a month.
+https://www.bleepingcomputer.com/news/security/conti-ransomware-hacking-spree-breaches-over-40-orgs-in-a-month
+
+VIP3R Campaign Uses HTML Attachments to Bypass Email Security.
+https://cyware.com/news/vip3r-campaign-uses-html-attachments-to-bypass-email-security-a2a2008a
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Contractor loses entire Japanese city's personal data in USB fail.
+https://www.theregister.com/2022/06/27/security_in_brief
+
+FTC Takes Action Against CafePress for Data Breach Cover Up.
+https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover
+
+Expensive week for Carnival Corp: a $1.25 million settlement with states over one breach, then a $5 million settlement with New York for violating state cybersecurity regulation.
+https://www.databreaches.net/expensive-week-for-carnival-corp-a-1-25-million-settlement-with-states-over-one-breach-then-a-5-million-settlement-with-new-york-for-violating-state-cybersecurity-regulations/	
+
+One of Iran’s major steel companies was forced to halt production after being hit by a cyberattack, apparently marking one of the biggest such assaults on the country’s strategic industrial sector in recent memory.
+https://www.securityweek.com/cyberattack-forces-iran-steel-company-halt-production
+
+11 hospitals, health systems that experienced data breaches in June.
+https://www.beckershospitalreview.com/cybersecurity/11-hospitals-health-systems-that-experienced-data-breaches-in-june.html
+
+Hacker Leaks Database Claiming to be from LendingTree.
+https://restoreprivacy.com/lendingtree-data-breach-2022
+
+Nemours Children's Health, a U.S. pediatric care network that services nearly 500,000 families, was found to have Facebook's Meta Pixel trackers embedded in its scheduling website.
+https://iapp.org/news/a/major-u-s-pediatric-care-network-has-facebook-trackers-on-its-scheduling-website
+
+US Subsidiary of Automotive Hose Maker Nichirin Hit by Ransomware.
+https://www.securityweek.com/us-subsidiary-automotive-hose-maker-nichirin-hit-ransomware
+
+In the News:
+___________
+
+US Agency Looks at Creating a '311' Call Line for Cybersecurity Incidents. The emergency call line would be meant for small and medium sized businesses to use when they've experienced a hacking incident.
+https://www.pcmag.com/news/us-agency-looks-at-creating-a-311-call-line-for-cybersecurity-incidents
+
+Lawmakers want to restrict user data sales to nations like China, Russia.
+https://www.cyberscoop.com/congress-data-brokers-legislation-foreign-sale/
+
+The LockBit ransomware operation has released 'LockBit 3.0,' introducing the first ransomware bug bounty program and leaking new extortion tactics and Zcash cryptocurrency payment options.
+https://www.bleepingcomputer.com/news/security/lockbit-30-introduces-the-first-ransomware-bug-bounty-program/
+
+We're now truly in the era of ransomware as pure extortion without the encryption. Why screw around with cryptography and keys when just stealing the info is good enough.
+https://www.theregister.com/2022/06/25/ransomware_gangs_extortion_feature/
+
+Daycare monitoring apps are ‘dangerously insecure,’ report finds. Research from the EFF found weak security and undisclosed data sharing in a number of childcare apps.
+https://www.theverge.com/2022/6/21/23177265/daycare-apps-dangerously-insecure-eff-brightwheel-tadpole-himama
+
+FTC issued a report to Congress titled Combatting Online Harms Through Innovation that urges policymakers to exercise “great caution” about relying on artificial intelligence (“AI”) to combat harmful online content.
+https://www.ftc.gov/system/files/ftc_gov/pdf/Combatting%20Online%20Harms%20Through%20Innovation%3B%20Federal%20Trade%20Commission%20Report%20to%20Congress.pdf
+
+The beleaguered Israeli surveillanceware vendor NSO Group this week admitted to the European Union lawmakers that its Pegasus tool was used by at least five countries in the region.
+https://thehackernews.com/2022/06/nso-confirms-pegasus-spyware-used-by-at.html
