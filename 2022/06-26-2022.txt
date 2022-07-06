@@ -1,0 +1,163 @@
+Cybersecurity Week in Review: June 26th to July 2nd, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 1 vulnerabilities to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/07/01/cisa-adds-one-known-exploited-vulnerability-catalog
+
+There 2334 CVEs for the month of June 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/6
+
+There are 157 CVEs so far for the month of July 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/7
+
+Security advisory/updates released for:
+Google, https://threatpost.com/actively-exploited-chrome-bug/180118/
+IBB, https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av22-370
+Dell, https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av22-369
+HPE, https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av22-362
+Mozilla, https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-products-could-allow-for-arbitrary-code-execution_2022-086
+Ubuntu, https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av22-352
+Adobe, https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av22-327
+Schneider Electric, https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av22-319
+Microsoft Follina, https://cyber.gc.ca/en/alerts-advisories/follina-vulnerability-impacting-microsoft-products
+SAP, https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2022-monthly-rollup-av22-318
+Microsoft Edge, https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av22-315
+
+CISA, FBI, Treasury, FinCEN have released a joint Cybersecurity Advisory to provide information on MedusaLocker ransomware.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/30/stopransomware-medusalocker
+
+CISA has released guidance on switching from Basic Authentication (“Basic Auth”) in Microsoft Exchange Online to Modern Authentication ("Modern Auth") before Microsoft begins permanently disabling Basic Auth on October 1, 2022.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/06/28/cisa-releases-guidance-switching-modern-auth-exchange-online
+ 
+U.S. Cyber Command wants more tech companies and others on the front lines of the global fight to secure the internet to share more cybersecurity intelligence so that the organization can improve its defensive capabilities, Cyber Command Executive Director Dave Frederick.
+https://www.cyberscoop.com/cyber-command-intel-private-industry
+
+NIST SP800-219 introduces the macOS Security Compliance Project (mSCP) to assist organizations with creating security baselines and defining controls to protect macOS endpoints.
+https://csrc.nist.gov/publications/detail/sp/800-219/final
+
+
+Threats and Actors:
+__________________
+
+Researchers Share Techniques to Uncover Anonymized Ransomware Sites on Dark Web.
+https://thehackernews.com/2022/07/researchers-share-techniques-to-uncover.html
+
+ZuoRAT Can Take Over Widely Used SOHO Routers.
+https://threatpost.com/zuorat-soho-routers/180113
+
+Pro-China Group Uses Dragonbridge Campaign to Target Rare Earth Mining Companies.
+https://thehackernews.com/2022/07/pro-china-group-uses-dragonbridge.html
+
+Threat Actor Group Claims Responsibility for High Profile University Hacks.
+https://www.itsecurityguru.org/2022/07/04/threat-actor-group-claims-responsibility-for-high-profile-university-hacks
+
+As New Clues Emerges, Experts Wonder: Is REvil Back?
+https://thehackernews.com/2022/07/as-new-clues-emerges-experts-wonder-is.html
+
+Federal authorities warn MedusaLocker ransomware targeting remote desktop vulnerabilities.
+https://www.cybersecuritydive.com/news/fbi-cisa-medusalocker-ransomware/626483
+
+Teen “Hackers” on Discord Selling Malware for Quick Cash.
+https://www.hackread.com/teen-hackers-discord-sell-malware-for-quick-cash
+
+A threat actor hacked inside the building automation systems of several Asian organizations by exploiting the Proxylogon flaw in Microsoft Exchange. After putting a backdoor into their networks, the attackers were further observed gaining access to more secured areas in networks.
+https://cyware.com/news/chinese-apt-group-abuses-proxylogon-bug-e80648d4
+
+AstraLocker 2.0 ransomware isn’t going to give you your files back.
+https://blog.malwarebytes.com/ransomware/2022/07/astralocker-2-0-ransomware-isnt-going-to-give-you-your-files-back
+
+Black Basta Emerges From the Dead - Warn Experts.
+https://cyware.com/news/black-basta-emerges-from-the-dead-warn-experts-968d827b
+
+Bumblebee Buzzes to Forefront of Ransomware Ecosystem.
+https://cyware.com/news/bumblebee-buzzes-to-forefront-of-ransomware-ecosystem-f22a145f
+
+Evilnum APT Returns with Better TTPs.
+https://cyware.com/news/evilnum-apt-returns-with-better-ttps-24bb29a3
+
+DragonForce Malaysia Group Releases Windows LPE Exploit and Turns to Ransomware Tactics.
+https://www.infosecurity-magazine.com/news/dragonforce-malaysia-windows-lpe
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity Linux vulnerability known as PwnKit to its list of bugs exploited in the wild.
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-pwnkit-linux-vulnerability
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+AMD held to ransom by gang that claims 450GB of data has been stolen.
+https://www.bitdefender.com/blog/hotforsecurity/amd-held-to-ransom-by-gang-that-claims-450gb-of-data-has-been-stolen
+
+Hacker claims to have stolen 1 bln records of Chinese citizens from police.
+https://www.reuters.com/world/china/hacker-claims-have-stolen-1-bln-records-chinese-citizens-police-2022-07-04
+
+Ransomware attack on finance company affects 600 hospitals, practices.
+https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-on-finance-company-affects-600-hospitals-practices.html
+
+HackerOne employee stole data from bug bounty reports for financial gain.
+https://portswigger.net/daily-swig/hackerone-employee-stole-data-from-bug-bounty-reports-for-financial-gain
+
+Marriott was breached about a month ago and 20 GB of data including some credit card info and confidential information.
+https://www.databreaches.net/exclusive-marriott-hacked-again-yes-heres-what-we-know
+
+Cyber security incident forces Cedar Rapids School District to temporarily suspend summer activities.
+https://www.kwwl.com/news/cedar-rapids/cyber-security-incident-forces-cedar-rapids-school-district-to-temporarily-suspend-summer-activities/article_38b0a524-fbea-11ec-9142-130950341938.html
+
+The personal information of over 300,000 Israelis was leaked last month by an Iranian hacker group targeting Israeli travel booking sites.
+https://www.databreaches.net/iranian-hackers-leak-info-of-over-300000-israelis-from-tourism-sites
+
+Cyberattack shuts down unemployment, labor websites across the US. Software maker GSI took systems offline, affecting thousands of people in as many as 40 states
+https://www.theregister.com/2022/07/01/gsi-cyberattack-state-unemployment
+
+Wegmans Food Markets has agreed to pay $400,000 and upgrade its security practices over a data breach that exposed personal information of more than 3 million consumers nationwide, including 830,000 New Yorkers.
+https://www.progressivegrocer.com/news-briefs?created_1=2022-07-01T10%3A35%3A11
+
+OpenSea user email addresses leaked by rogue employee at third-party vendor.
+https://portswigger.net/daily-swig/opensea-user-email-addresses-leaked-by-rogue-employee-at-third-party-vendor
+
+California state's gun control websites expose personal data and some of it may have been leaked on social media.
+https://www.theregister.com/2022/06/30/california_websites_expose_personal_data
+
+Publishing giant Macmillan was forced to shut down their network and offices while recovering from a security incident that appears to be a ransomware attack.
+https://www.bleepingcomputer.com/news/security/macmillan-shuts-down-systems-after-likely-ransomware-attack
+
+American retailer Walmart has denied being hit with a ransomware attack by the Yanluowang gang after the hackers claimed to encrypt thousands of computers.
+https://www.databreaches.net/walmart-denies-being-hit-by-yanluowang-ransomware-attack
+
+Ransomware Suspected in Wiltshire Farm Foods Attack.
+https://www.itsecurityguru.org/2022/06/29/ransomware-suspected-in-wiltshire-farm-foods-attack
+
+
+In the News:
+___________
+
+Cybersecurity experts from across Europe have just completed one of the largest international cyber crisis simulations to date, involved more than 800 cybersecurity specialists from 29 countries.
+https://portswigger.net/daily-swig/cyber-europe-2022-eu-completes-large-scale-cyber-war-game-exercise
+
+Jen Easterly, director of CISA, acknowledged the challenges that the U.S. government’s complex patchwork of cyber incident reporting requirements imposes on industry. 
+https://www.lawfareblog.com/last-call-star-wars-bar-harmonizing-incident-and-breach-reporting-requirements
+
+A trove of thousands of email records uncovered by Reuters reveals Indian cyber mercenaries hacking parties involved in lawsuits around the world – showing how hired spies have become the secret weapon of litigants seeking an edge.
+https://www.reuters.com/investigates/special-report/usa-hackers-litigation
+
+Israel plans ‘Cyber-Dome’ to defeat digital attacks from Iran and others.
+https://www.theregister.com/2022/06/30/israel_cyber_dome
+
+TikTok Assures U.S. Lawmakers it's Working to Safeguard User Data From Chinese Staff.
+https://thehackernews.com/2022/07/tiktok-assures-us-lawmakers-its-working.html
+
+2022 CWE Top 25 Most Dangerous Software Weaknesses.
+https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html
+
+Scalper botnet has made it incredibly challenging for Israeli government entities to conduct essential services within the country.
+https://cyware.com/news/scalper-bots-leave-the-israeli-government-helpless-9275ebad
+
+YouTube flags horror video as “for kids,” won’t let creator change rating. Found-footage horror channel Local58TV isn't for kids, but YouTube disagrees.
+https://arstechnica.com/gadgets/2022/07/youtube-flags-horror-video-as-for-kids-wont-let-creator-change-rating
+
+The Senate Intelligence Committee sent letter to FTC asking to open investigation into whether TikTok misled U.S. lawmakers about China-based employees accessing American user data.
+https://www.forbes.com/sites/emilybaker-white/2022/07/05/senate-intelligence-committee-calls-on-ftc-to-investigate-tiktok-for-deception
