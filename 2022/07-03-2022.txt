@@ -1,0 +1,130 @@
+Cybersecurity Week in Review: July 03rd to July 9th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+There are 389 CVEs so far for the month of July 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/7
+
+Security advisory/updates released for:
+Cisco, https://thehackernews.com/2022/07/cisco-and-fortinet-release-security.html
+Fortinet, https://thehackernews.com/2022/07/cisco-and-fortinet-release-security.html
+Ubuntu, https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av22-372
+Chronme, https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2022-087
+HPE, https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av22-374
+OpenSSL, https://cyber.gc.ca/en/alerts-advisories/openssl-security-advisory-av22-375
+Android, https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2022-monthly-rollup-av22-377
+Rockwell Automation, https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av22-378
+Bently Nevada, https://cyber.gc.ca/en/alerts-advisories/control-systems-bently-nevada-security-advisory-av22-379
+Microsoft Edge, https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av22-380
+Dell, https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av22-381
+
+DOJ sets new goals for responding to ransomware attacks.
+https://therecord.media/doj-sets-new-goals-for-responding-to-ransomware-attacks
+
+FBI, CISA, Treasury: North Korean hackers taking aim at health care with Maui ransomware.
+https://www.cyberscoop.com/fbi-cisa-treasury-north-korea-ransomware-maui-alert-health-care
+
+
+Threats and Actors:
+__________________
+
+ZuoRAT Malware with Hallmarks of a State-Backed Threat Actor.
+https://cyware.com/news/zuorat-malware-with-hallmarks-of-a-state-backed-threat-actor-13986ad5
+
+New RedAlert Ransomware targets Windows, Linux VMware ESXi servers.
+https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers
+
+DragonForce Malaysia Threatens Widespread Ransomware Attack.
+https://cyware.com/news/dragonforce-malaysia-threatens-widespread-ransomware-attack-400360b2
+
+Raspberry Robin Worm Targets Windows Users.
+https://cyware.com/news/raspberry-robin-worm-targets-windows-users-c1c6a343
+
+Hive Ransomware Switches from Golang to Rust.
+https://cyware.com/news/hive-ransomware-switches-from-golang-to-rust-c22b37e3
+
+Microsoft Surreptitiously Addressed ShadowCoerce Vulnerability.
+https://cyware.com/news/microsoft-surreptitiously-addressed-shadowcoerce-vulnerability-7e1eef81
+
+Sneaky Orbit Malware Backdoors Linux Devices.
+https://threatpost.com/sneaky-malware-backdoors-linux/180158
+
+ALPHV’s ransomware makes it easy to search data from targets who do not pay.
+https://www.techrepublic.com/article/alphv-ransomware-search-data
+
+PyPI Packages Steal Telegram Cache Files, Add Windows Remote Desktop Accounts.
+https://blog.sonatype.com/pypi-packages-steal-telegram-cache-files-add-windows-remote-desktop-accounts
+
+Researchers Warn of Raspberry Robin's Worm Targeting Windows Users.
+https://thehackernews.com/2022/07/researchers-warn-of-raspberry-robins.html
+
+New 0mega ransomware targets businesses in double-extortion attacks.
+https://www.bleepingcomputer.com/news/security/new-0mega-ransomware-targets-businesses-in-double-extortion-attacks
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+T Mobile Business confirms data breach again.
+https://www.cybersecurity-insiders.com/t-mobile-business-confirms-data-breach-again
+
+KelvinSecurity Hacking Group Leaks 8GB Database from CMS.gov with 6M+ Records.
+https://restoreprivacy.com/kelvinsecurity-cms-database-center-for-medicare-medicaid-services
+
+Hackers Exploiting Follina Bug to Deploy Rozena Backdoor.
+https://thehackernews.com/2022/07/hackers-exploiting-follina-bug-to.html
+
+VCU Health identifies and addresses a 16-year privacy breach.
+https://www.databreaches.net/vcu-health-identifies-and-addresses-a-16-year-privacy-breach
+
+Data Breach at PFC USA Impacts Patients of 650 Healthcare Providers.
+https://www.securityweek.com/data-breach-pfc-usa-impacts-patients-650-healthcare-providers
+
+SHI International, a New Jersey-based provider of Information Technology (IT) products and services, has confirmed that a malware attack hit its network.
+https://www.bleepingcomputer.com/news/security/it-services-giant-shi-hit-by-professional-malware-attack
+
+CVS-owned pharmacy company becomes target of ransomware attack.
+https://www.beckershospitalreview.com/cybersecurity/cvs-owned-pharmacy-company-becomes-target-of-ransomware-attack.html
+
+American Marriage Ministries acknowledges data exposure after earlier incident reported to FBI.
+https://therecord.media/american-marriage-ministries-acknowledges-data-exposure-after-earlier-incident-reported-to-fbi
+
+Fake job offer leads to $600 million theft.
+https://blog.malwarebytes.com/cybercrime/2022/07/fake-job-offer-leads-to-600-million-theft
+
+Disneyland hack reveals dangers of social media account takeover.
+https://venturebeat.com/2022/07/08/disneyland-hack
+
+
+In the News:
+___________
+
+Hack Allows Drone Takeover Via ‘ExpressLRS’ Protocol.
+https://threatpost.com/drone-hack-expresslrs-hijacked/180133
+
+Pentester says he broke into datacenter via hidden route running behind toilets.
+https://www.databreaches.net/pentester-says-he-broke-into-datacenter-via-hidden-route-running-behind-toilets
+
+Google Analytics Runs Afoul of GDPR.
+https://www.natlawreview.com/article/google-analytics-runs-afoul-gdpr
+
+Parents sue TikTok after 7 kids die from profitable Blackout Challenge videos.
+https://arstechnica.com/tech-policy/2022/07/parents-sue-tiktok-after-7-kids-die-from-profitable-blackout-challenge-videos
+
+San Francisco Coalition Fights SFPD’s Proposal to Co-Opt Private Surveillance Cameras.
+https://www.eff.org/deeplinks/2022/07/san-francisco-coalition-fights-sfpds-proposal-co-opt-private-surveillance-cameras
+
+Apple has introduced lockdown mode for high-risk users who are concerned about nation-state attacks.
+https://www.schneier.com/blog/archives/2022/07/apples-lockdown-mode.html
+
+Pentagon: We'll pay you if you can find a way to hack us.
+https://www.theregister.com/2022/07/05/dod-hackus-bug-bounty
+
+When Pentest Tools Go Brutal: Red-Teaming Tool Being Abused by Malicious Actors.
+https://unit42.paloaltonetworks.com/brute-ratel-c4-tool
+
+
