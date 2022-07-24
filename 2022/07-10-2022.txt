@@ -1,0 +1,125 @@
+Cybersecurity Week in Review: July 10th to July 16th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 1 vulnerability to it’s known exploited vulnerabilities catalog in the past week based on evidence that threat actors are actively exploiting the vulnerabilities listed.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/cisa-adds-one-known-exploited-vulnerability-catalog
+
+There are 1258 CVEs so far for the month of July 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/7
+
+Security advisory/updates released for: 
+Citrix, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/citrix-releases-security-updates-hypervisor
+SAP, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/sap-releases-july-2022-security-updates
+Microsoft, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/microsoft-releases-july-2022-security-updates
+Adobe, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/adobe-releases-security-updates-multiple-products
+Juniper, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/14/juniper-networks-releases-security-updates-multiple-products-1
+Dell, https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av22-396
+IBM, https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av22-395
+ABB, https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av22-394
+Ubuntu, https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av22-392
+Schneider Electric, https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av22-384
+Siemens, https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av22-385
+
+CISA Urges Patch of Exploited Windows 11 Bug by August 2.
+https://threatpost.com/cisa-urges-patch-11-bug/180235
+
+Langevin pushes for critical infrastructure protections in annual defense bill.
+https://www.cyberscoop.com/sici-defense-authorization-amendment-langevin
+
+
+Threats and Actors:
+__________________
+
+A look inside Russian cybercrime syndicate TrickBot reveals an organized, potent adversary.
+https://www.cyberscoop.com/russian-cybercrime-syndicate-trickbot-organized-potent-adversary
+
+North Korean Threat Actor Targeting SME Businesses with Ransomware.
+https://www.infosecurity-magazine.com/news/north-korean-threat-actors-sme
+
+Hackers Distributing Password Cracking Tool for PLCs and HMIs to Target Industrial Systems.
+https://thehackernews.com/2022/07/hackers-distributing-password-cracking.html
+
+New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain.
+https://thehackernews.com/2022/07/new-netwrix-auditor-bug-could-let.html
+
+North Korea-based Holy Ghost Ransomware Targets Victims Globally.
+https://cyware.com/news/north-korea-based-holy-ghost-ransomware-targets-victims-globally-fa605242
+
+New Lilith Ransomware Family Joins the Double Extortion Threat Landscape.
+https://cyware.com/news/new-lilith-ransomware-family-joins-the-double-extortion-threat-landscape-24b02632
+
+New Qakbot Attacks are Much Stealthier and Effective than Ever.
+https://cyware.com/news/new-qakbot-attacks-are-much-stealthier-and-effective-than-ever-62f9e8d2
+
+Tiny Mantis Botnet Can Launch More Powerful DDoS Attacks Than Mirai.
+https://www.hackread.com/tiny-mantis-botnet-launch-ddos-attacks-than-mirai
+
+A New Attack Can Unmask Anonymous Users on Any Major Browser.
+https://www.wired.com/story/web-deanonymization-side-channel-attack-njit
+
+BlackCat Becomes Bolder, Demands $2.5 Million as Ransom.
+https://cyware.com/news/blackcat-becomes-bolder-demands-25-million-as-ransom-9076c98d
+
+Retbleed: Another New Spectre-BTI Attack Discovered.
+https://cyware.com/news/retbleed-another-new-spectre-bti-attack-discovered-ee739e13
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Albania shuts down government websites, services due to wide ranging cyberattack.
+https://therecord.media/albania-shuts-down-government-websites-services-due-to-wide-ranging-cyberattack
+
+Indian flight booking site Cleartrip announces data breach.
+https://therecord.media/indian-flight-booking-site-cleartrip-announces-data-breach
+
+Hacker Posts Internal Roblox Employee Documents Online.
+https://www.vice.com/en/article/g5vqx3/hacker-posts-internal-roblox-employee-documents-online
+
+Israel’s Health Ministry website down after Iranian cyberattack.
+https://www.databreaches.net/israels-health-ministry-website-down-after-iranian-cyberattack
+
+Rhode Island sewer-system operator hit by cyber attack.
+https://www.providencejournal.com/story/news/local/2022/07/16/ri-sewer-system-narragansett-bay-commission-hit-cyber-attack/10076978002
+
+More than 4,000 individuals’ medical data left exposed for 16 years.
+https://portswigger.net/daily-swig/more-than-4-000-individuals-medical-data-left-exposed-for-16-years
+
+Scrutiny of Alibaba in Record Breach May Ensnare All China Tech.
+https://www.bloomberg.com/news/articles/2022-07-15/scrutiny-of-alibaba-in-record-breach-may-ensnare-all-china-tech
+
+Baton Rouge General Medical Center ransomware attack has caused patients to be diverted to other hospitals, lost records, and lab services down.
+https://www.databreaches.net/baton-rouge-general-medical-center-ransomware-attack-has-caused-patients-to-be-diverted-to-other-hospitals-lost-records-and-lab-services-down-source
+
+
+In the News:
+___________
+
+U.S. FTC Vows to Crack Down on illegal Use and Sharing of Citizens' Sensitive Data.
+https://thehackernews.com/2022/07/us-ftc-vows-to-crack-down-on-illegal.html
+
+The cyber insurance market has a critical infrastructure problem.
+https://www.cyberscoop.com/cyber-insurance-gao-critical-infrastructure-ransomware
+
+6 Reasons Why Ransomware Is Not Going To Be Stopped.
+https://www.sentinelone.com/blog/6-reasons-why-ransomware-is-not-going-to-be-stopped
+
+A security advisory for a vulnerability (CVE) published by MITRE has accidentally been exposing links to remote admin consoles of over a dozen vulnerable IP devices since at least April 2022.
+https://www.bleepingcomputer.com/news/security/security-advisory-accidentally-exposes-vulnerable-systems
+
+San Francisco Police Want Real-Time Access to Private Surveillance Cameras.
+https://www.schneier.com/blog/archives/2022/07/san-francisco-police-want-real-time-access-to-private-surveillance-cameras.html
+
+A large-scale phishing campaign that used adversary-in-the-middle (AiTM) phishing sites stole passwords, hijacked a user’s sign-in session, and skipped the authentication process even if the user had enabled multifactor authentication (MFA).
+https://www.microsoft.com/security/blog/2022/07/12/from-cookie-theft-to-bec-attackers-use-aitm-phishing-sites-as-entry-point-to-further-financial-fraud
+
+Honda Admits Hackers Could Unlock Car Doors, Start Engines.
+https://www.databreaches.net/honda-admits-hackers-could-unlock-car-doors-start-engines
+
+This Is the Code the FBI Used to Wiretap the World.
+https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m
