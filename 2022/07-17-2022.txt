@@ -1,0 +1,105 @@
+Cybersecurity Week in Review: July 17th to July 23rd, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+There are 1670 CVEs so far for the month of July 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/7
+
+Security advisory/updates released for:
+Oracle, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/20/oracle-releases-july-2022-critical-patch-update
+Cisco, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/22/cisco-releases-security-updates-multiple-products
+Apple, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/22/apple-releases-security-updates-multiple-products
+Drupal, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/drupal-releases-security-update
+Atlassian, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/22/atlassian-releases-security-advisory-questions-confluence-app-cve
+Google, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/google-releases-security-updates-chrome
+Rockwell Automation, https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av22-411
+Johnson Controls, https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av22-410
+ICONICS and Mitsubishi Electric security, https://cyber.gc.ca/en/alerts-advisories/control-systems-iconics-and-mitsubishi-electric-security-advisory-av22-409
+ABB, https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av22-408
+AutomationDirect, https://cyber.gc.ca/en/alerts-advisories/control-systems-automationdirect-security-advisory-av22-407
+Dell, https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av22-406
+Ubuntu, https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av22-405
+Red Hat, https://cyber.gc.ca/en/alerts-advisories/red-hat-security-avisory-av22-398
+
+CISA released Security Advisory on MiCODUS MV720 Global Positioning System (GPS) Tracker.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/07/19/cisa-released-security-advisory-micodus-mv720-global-positioning
+
+U.S. Cyber Command’s Cyber National Mission Force (CNMF), releases list of indicators of compromise (IOCs) of malware seen in Ukraine.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/cnmf-discloses-malware-ukraine
+
+
+Threats and Actors:
+__________________
+
+Russian hacking unit Cozy Bear adds Google Drive to its arsenal, researchers say.
+https://www.cyberscoop.com/apt29-google-drive-malware-spearphishing
+
+Candiru Spyware Caught Exploiting Google Chrome Zero-Day to Target Journalists.
+https://thehackernews.com/2022/07/candiru-spyware-caught-exploiting.html
+
+Zyxel firewall vulnerabilities left business networks open to abuse.
+https://portswigger.net/daily-swig/zyxel-firewall-vulnerabilities-left-business-networks-open-to-abuse
+
+Hackers hiding malicious links in top Google search results, researchers warn. Malicious adverts made to resemble links to websites are targeting some of the world’s most popular websites.
+https://www.itpro.co.uk/security/368621/hackers-hiding-malicious-links-in-top-google-search-results
+
+New Luna ransomware Encrypts Windows, Linux, and ESXi Systems.
+https://cyware.com/news/new-luna-ransomware-encrypts-windows-linux-and-esxi-systems-cbdedade
+
+LockBit: Ransomware Puts Servers in the Crosshairs.
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lockbit-targets-servers
+
+8220 Gang: A Group With Botnet of 30,000 Hosts.
+https://cyware.com/news/8220-gang-a-group-with-botnet-of-30000-hosts-62de5142
+
+New Redeemer ransomware version promoted on hacker forums.
+https://www.bleepingcomputer.com/news/security/new-redeemer-ransomware-version-promoted-on-hacker-forums
+
+New ‘Lightning Framework’ Linux malware installs rootkits, backdoors.
+https://www.bleepingcomputer.com/news/security/new-lightning-framework-linux-malware-installs-rootkits-backdoors
+
+North Korean Hackers Targeting Small and Midsize Businesses with H0lyGh0st Ransomware.
+https://thehackernews.com/2022/07/north-korean-hackers-targeting-small.html
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Hackers leak huge cache of data from evangelical organization that supported Dobbs decision.
+https://www.cyberscoop.com/evangelical-wmtek-liberty-counsel-hack-donors-operation-jane
+
+Hackers attempt to infiltrate Ukrainian tech company with backdoor malware, Talos says.
+https://www.cyberscoop.com/ukraine-supply-chain-attack-malware-gomet-backdoor
+
+Technology Company Hit Twice By Ransomware.
+https://www.techlawx.com/post/technology-company-hit-twice-by-ransomware
+
+Hacker claims to have hacked into Rogers days before outage out of good faith.
+https://cybernews.com/security/hacker-claims-to-have-hacked-into-rogers-days-before-outage-out-of-good-faith/
+
+Building materials giant Knauf hit by Black Basta ransomware gang.
+https://www.bleepingcomputer.com/news/security/building-materials-giant-knauf-hit-by-black-basta-ransomware-gang
+
+In the News:
+___________
+
+Reporter: Facebook using ex-CIA to decide misinformation policy is ‘very, very worrying’.
+https://thehill.com/hilltv/3566225-reporter-facebook-using-ex-cia-to-decide-misinformation-policy-is-very-very-worrying
+
+Researchers uncover potential ransomware network with U.S. connections.
+https://www.cyberscoop.com/researchers-ransomware-network
+
+NIST Selects 12 Companies for Implementing Post-Quantum Cryptography.
+https://www.nextgov.com/cybersecurity/2022/07/nist-selects-12-companies-implementing-post-quantum-cryptography/374601
+
+Attackers can surveil, disrupt vehicles outfitted with popular GPS tracker, CISA warns.
+https://www.cyberscoop.com/vulnerabilities-gps-tracker-cisa-warns
+
+LinkedIn remains the most impersonated brand in phishing attacks.
+https://www.bleepingcomputer.com/news/security/linkedin-remains-the-most-impersonated-brand-in-phishing-attacks/#.YtlapOAgVKY.twitter
+
+
