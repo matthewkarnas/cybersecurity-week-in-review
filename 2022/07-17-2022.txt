@@ -84,6 +84,30 @@ https://cybernews.com/security/hacker-claims-to-have-hacked-into-rogers-days-bef
 Building materials giant Knauf hit by Black Basta ransomware gang.
 https://www.bleepingcomputer.com/news/security/building-materials-giant-knauf-hit-by-black-basta-ransomware-gang
 
+T-Mobile agrees to pay $500M to settle data breach lawsuit.
+https://siliconangle.com/2022/07/25/t-mobile-agrees-pay-500m-settle-data-breach-lawsuit
+
+Neopets data breach exposes data of 69 million accounts.
+https://topclassactions.com/lawsuit-settlements/privacy/data-breach/neopets-data-breach-exposes-data-of-69-million-accounts
+
+Twitter data breach exposes personal information of 5.4M accounts.
+https://topclassactions.com/lawsuit-settlements/privacy/data-breach/twitter-data-breach-exposes-personal-information-of-5-4m-accounts
+
+Digital security giant Entrust has confirmed that it suffered a cyberattack where threat actors breached their network and stole data from internal systems.
+https://www.databreaches.net/digital-security-giant-entrust-breached-by-ransomware-gang
+
+Malware spent months hoovering up credit card details from 300 US restaurants.
+https://blog.malwarebytes.com/awareness/2022/07/magecart-infection
+
+Lending Tree Notifies 70,000 Customers of Data Breach.
+https://www.natlawreview.com/article/lending-tree-notifies-70000-customers-data-breach
+
+Feelyou mental health app says emails of 78,000 users exposed in breach.
+https://therecord.media/feelyou-mental-health-app-says-emails-of-78000-users-exposed-in-breach
+
+Walmart-controlled flight booking service suffers substantial data leak.
+https://www.databreaches.net/walmart-controlled-flight-booking-service-suffers-substantial-data-leak
+
 In the News:
 ___________
 
@@ -101,5 +125,15 @@ https://www.cyberscoop.com/vulnerabilities-gps-tracker-cisa-warns
 
 LinkedIn remains the most impersonated brand in phishing attacks.
 https://www.bleepingcomputer.com/news/security/linkedin-remains-the-most-impersonated-brand-in-phishing-attacks/#.YtlapOAgVKY.twitter
+
+Atlassian: Confluence hardcoded password was leaked, patch now!
+https://www.databreaches.net/atlassian-confluence-hardcoded-password-was-leaked-patch-now
+
+Data breach average cost tops $9.5M, according to report.
+https://topclassactions.com/lawsuit-settlements/privacy/data-breach/data-breach-average-cost-tops-9-5m-according-to-report
+
+Experts Uncover New 'CosmicStrand' UEFI Firmware Rootkit Used by Chinese Hackers.
+https://thehackernews.com/2022/07/experts-uncover-new-cosmicstrand-uefi.html
+
 
 
