@@ -1,0 +1,117 @@
+Cybersecurity Week in Review: July 24th to July 30th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 1 new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog
+
+There are 2152 CVEs so far for the month of July 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/7
+
+Security advisory/updates released for:
+Samba, https://www.cisa.gov/uscert/ncas/current-activity/2022/07/27/samba-releases-security-updates
+Grails Framework, https://www.cisecurity.org/advisory/a-vulnerability-in-the-grails-framework-could-allow-for-remote-code-execution-cve-2022-35912_2022-096
+ABB, https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av22-426
+Dell, https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av22-427
+Ubuntu, https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av22-425
+HPE, https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av22-424
+Mitel, https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av22-423
+Rockwell Automation, https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av22-422
+Red Hat, htt, https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-firefox-could-allow-for-arbitrary-code-execution_2022-0945532-01.txt
+Firefox, https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-firefox-could-allow-for-arbitrary-code-execution_2022-094
+SonicWall, https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av22-413
+IBM, https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av22-412
+
+
+
+DOJ national security division chief backs tech antitrust bill.
+https://www.cyberscoop.com/justice-national-security-supports-antritrust-bill
+
+Senators Introduce Bipartisan Quantum Computing Cybersecurity Bill.
+https://www.securityweek.com/senators-introduce-bipartisan-quantum-computing-cybersecurity-bill
+
+
+Threats and Actors:
+__________________
+
+IIS Extensions Used as Backdoors for Exchange Servers.
+https://cyware.com/news/iis-extensions-used-as-backdoors-for-exchange-servers-aa37db78
+
+DSIRF, Knotweed Jointly Abused Zero-day to Deploy Subzero Malware.
+https://cyware.com/news/dsirf-knotweed-jointly-abused-zero-day-to-deploy-subzero-malware-47d043b6
+
+Threat Actors Pivot Around Microsoft’s Macro-Blocking in Office.
+https://threatpost.com/threat-pivot-microsofts-macro/180319
+
+Authentication Bypass Bug Found In AWS IAM Authenticator for Kubernetes.
+https://latesthackingnews.com/2022/07/18/authentication-bypass-bug-found-in-aws-iam-authenticator-for-kubernetes
+
+XSS vulnerabilities in Google Cloud, Google Play could lead to account hijacks.
+https://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks
+
+Microsoft Zero-Days Sold and then Used.
+https://www.schneier.com/blog/archives/2022/07/microsoft-zero-days-sold-and-then-used.html
+
+Latest Critical Atlassian Confluence Vulnerability Under Active Exploitation.
+https://thehackernews.com/2022/07/latest-critical-atlassian-confluence.html
+
+CosmicStrand Malware Found on ASUS and Gigabyte Motherboards.
+https://cyware.com/news/cosmicstrand-malware-found-on-asus-and-gigabyte-motherboards-c26d7891
+
+Things to Know About STIFF#BIZON Campaign.
+https://cyware.com/news/things-to-know-about-stiffbizon-campaign-d7c0f9f2
+
+Amadey Bot's New Version Spreads Using Software Cracks.
+https://cyware.com/news/amadey-bots-new-version-spreads-using-software-cracks-11f2a0ac
+
+Microsoft Windows Security Warning As Multiple 0Days Used In Attacks On Business Users.
+https://www.forbes.com/sites/daveywinder/2022/07/28/microsoft-confirms-windows-users-targeted-by-0day-hack-attack/?sh=545efdf96d1f
+
+Malware on IBM Power Systems: What You Need to Know.
+https://www.tripwire.com/state-of-security/security-data-protection/cyber-security/malware-on-ibm-power-systems-what-you-need-to-know
+
+QBot Now Spreads Via Windows Calculator.
+https://cyware.com/news/qbot-now-spreads-via-windows-calculator-dff54cf2
+
+Lightning Framework: Another Capable Linux Malware.
+https://cyware.com/news/lightning-framework-another-capable-linux-malware-46813253
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Federal court system suffered previously undisclosed breach, congressional committee says.
+https://www.cyberscoop.com/federal-court-system-breach
+
+Ransomware group targets Italian tax agency.
+https://www.cyberscoop.com/lockbit-italy-tax-agency-ransomware
+
+911 Proxy Service Implodes After Disclosing Breach.
+https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach
+
+Microsoft: Windows, Adobe zero-days used to deploy Subzero malware.
+https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-adobe-zero-days-used-to-deploy-subzero-malware
+
+
+In the News:
+___________
+
+Stolen money from cyberattacks makes up a third of the funds for North Korea's missile program, US official says.
+https://www.businessinsider.com/north-korea-missile-program-funded-by-cyberattacks-us-official-2022-7
+
+Weak data protection helped China attack US Federal Reserve, report says.
+https://www.theregister.com/2022/07/27/weak_data_protection_helped_chinese
+
+US, UK law enforcement to implement data sharing law, troubling privacy advocates.
+https://www.cyberscoop.com/uk-us-cloud-act-to-begin
+
+Hackers scan for vulnerabilities within 15 minutes of disclosure.
+https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerabilities-within-15-minutes-of-disclosure
+
+
+
+
