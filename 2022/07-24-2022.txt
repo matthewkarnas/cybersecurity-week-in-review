@@ -96,6 +96,24 @@ https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-
 Microsoft: Windows, Adobe zero-days used to deploy Subzero malware.
 https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-adobe-zero-days-used-to-deploy-subzero-malware
 
+Trouble does not seem to leave Celsius. After losing millions, if not billions, just recently, Celsius has just now been hit by a data breach. 
+https://crypto.news/celsius-updates-legal-battles-continue-while-data-breach-hits-celsius
+
+In February, alleged Russian government hackers launched an attack on U.S. satellite company Viasat, disabling communications in Ukraine just before the invasion in what amounted to perhaps the most prominent hack of space equipment ever.
+https://www.databreaches.net/cyberattacks-on-satellites-may-only-be-getting-more-worrisome
+
+US Federal Courts Data Breach: Justice Department Investigates Records System Cyberattack.
+https://www.techtimes.com/articles/278632/20220729/us-federal-courts-data-breach-us-justice-department-investigates-cyberattack-us-cyber-data-breach.htm
+
+Mailing and printing services vendor OneTouchPoint has disclosed a data breach impacting more than 30 healthcare providers and health insurance carriers.
+https://www.securityweek.com/onetouchpoint-discloses-data-breach-impacting-over-30-healthcare-firms
+
+GitHub Actions workflow flaws provided write access to projects including Logstash.
+https://portswigger.net/daily-swig/github-actions-workflow-flaws-provided-write-access-to-projects-including-logstash
+
+U.S. Bank issued fine of $37.5M over unauthorized accounts.
+https://topclassactions.com/lawsuit-settlements/class-action-news/u-s-bank-fine-of-37-5m-issued-over-unauthorized-accounts
+
 
 In the News:
 ___________
@@ -112,6 +130,18 @@ https://www.cyberscoop.com/uk-us-cloud-act-to-begin
 Hackers scan for vulnerabilities within 15 minutes of disclosure.
 https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerabilities-within-15-minutes-of-disclosure
 
+Spyware developer charged by Australian Police after 14,500 sales.
+https://www.theregister.com/2022/08/01/asia_tech_news_roundup
 
+The ransomware landscape changes as fewer victims decide to pay.
+https://blog.malwarebytes.com/ransomware/2022/07/the-ransomware-landscape-changes-as-less-victims-decide-to-pay
 
+TikTok owner ByteDance pushed a pro-China agenda to Americans, say former employees.
+https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-owner-bytedance-pushed-a-pro-china-agenda-to-americans-say-former-employees
+
+Amazon Web Services Inc. is rolling out new features that will help customers more easily scan their cloud environments for malware and secure software container applications.
+https://siliconangle.com/2022/07/26/aws-rolls-new-malware-detection-container-security-features
+
+UK Spy Agency MI5 'Breached Surveillance Laws For More Than A Decade'.
+https://www.forbes.com/sites/emmawoollacott/2022/07/26/uk-spy-agency-mi5-breached-surveillance-laws-for-more-than-a-decade
 
