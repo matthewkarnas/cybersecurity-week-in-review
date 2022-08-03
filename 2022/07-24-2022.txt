@@ -26,8 +26,6 @@ Firefox, https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla
 SonicWall, https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av22-413
 IBM, https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av22-412
 
-
-
 DOJ national security division chief backs tech antitrust bill.
 https://www.cyberscoop.com/justice-national-security-supports-antritrust-bill
 
