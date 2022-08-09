@@ -1,0 +1,64 @@
+Cybersecurity Week in Review: July 31st to August 6th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 1 new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisa-adds-one-known-exploited-vulnerability-catalog
+
+There are 2152 CVEs for the month of July and there are 531 CVEs so far for the month of August 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/8
+
+CISA and the Australian Cyber Security Centre (ACSC) have published a joint Cybersecurity Advisory on the top malware strains observed in 2021. 
+https://www.cisa.gov/uscert/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains
+
+Federal Bill Would Broaden FTC’s Role in Cybersecurity and Data Breach Disclosures.
+https://www.natlawreview.com/article/federal-bill-would-broaden-ftc-s-role-cybersecurity-and-data-breach-disclosures
+
+Privacy bill strips FCC oversight of telecom data abuse, worrying consumer advocates.
+https://www.cyberscoop.com/adppa-fcc-privacy-ftc-congress-telecom
+
+Senators introduce bill to ensure resiliency of federal data centers.
+https://fcw.com/security/2022/08/senators-introduce-bill-ensure-resiliency-federal-data-centers/375219
+
+Threats and Actors:
+__________________
+
+Researchers uncover sophisticated global Chinese hacking operation.
+https://www.cyberscoop.com/china-hacking-russia-belarus-ukraine-china
+
+FEMA warns emergency alert systems could be hacked to transmit fake messages unless software is updated.
+https://edition.cnn.com/2022/08/03/politics/fema-emergency-alert-software-warning/index.html
+
+Open Redirect Flaw Snags Amex, Snapchat User Data.
+https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Twilio, a texting platform popular with political campaigns, reports breach.
+https://www.cyberscoop.com/twilio-campaign-hack-text
+
+Twitter breach exposes anonymous accounts to nation state hackers.
+https://www.cyberscoop.com/twitter-privacy-hacker-password-vulnerability
+
+Hackers deploy new ransomware tool in attacks on Albanian government websites.
+https://www.cyberscoop.com/iran-hack-albania-ransomware-mek
+
+Federal courts left Americans' data exposed, senator tells Supreme Court chief justice.
+https://www.cyberscoop.com/wyden-scotus-privacy-federal-courts-letter
+
+Environmental hacktivists publish 2 terabytes of mining company emails.
+https://www.cyberscoop.com/environmentalist-hacktivist-collective-mining-company
+
+Taiwanese government sites hit with DDoS attacks ahead of Pelosi's visit.
+https://www.cyberscoop.com/taiwan-china-ddos-pelosi-visit
+
+In the News:
+___________
+
+
