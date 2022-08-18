@@ -24,6 +24,9 @@ https://www.cyberscoop.com/adppa-fcc-privacy-ftc-congress-telecom
 Senators introduce bill to ensure resiliency of federal data centers.
 https://fcw.com/security/2022/08/senators-introduce-bill-ensure-resiliency-federal-data-centers/375219
 
+Patch now! Cisco VPN routers are vulnerable to remote control.
+https://www.malwarebytes.com/blog/news/2022/08/patch-now-cisco-vpn-routers-are-vulnerable-to-remote-control
+
 Threats and Actors:
 __________________
 
@@ -36,12 +39,27 @@ https://edition.cnn.com/2022/08/03/politics/fema-emergency-alert-software-warnin
 Open Redirect Flaw Snags Amex, Snapchat User Data.
 https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354
 
+SmokeLoader Actively Spreads by Exploiting Old Vulnerabilities.
+https://cyware.com/news/smokeloader-actively-spreads-by-exploiting-old-vulnerabilities-66d0567f
+
+Microsoft August 2022 Patch Tuesday fixes exploited zero-day, 121 flaws.
+https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2022-patch-tuesday-fixes-exploited-zero-day-121-flaws
+
+Malicious code exploiting recent VMware bug publicly available, company warns.
+https://roundup.andreafortuna.org/article/aHR0cHM6Ly90aGVyZWNvcmQubWVkaWEvbWFsaWNpb3VzLWNvZGUtZXhwbG9pdGluZy1yZWNlbnQtdm13YXJlLWJ1Zy1wdWJsaWNseS1hdmFpbGFibGUtY29tcGFueS13YXJucy8=.html
+
+RapperBot Brute-Forces SSH Servers.
+https://cyware.com/news/rapperbot-brute-forces-ssh-servers-a6f70e1a
+
+A new ransomware group, dubbed Industrial Spy, has emerged on the threat landscape. The group was first spotted in April when it started as a data extortion marketplace.
+https://cyware.com/news/an-introduction-to-industrial-spy-ransomware-group-40a58f19
+
 
 Attacks, Breaches, and Incidents:
 ________________________________
 
-Twilio, a texting platform popular with political campaigns, reports breach.
-https://www.cyberscoop.com/twilio-campaign-hack-text
+Twilio data breach result of employee phishing attack.
+https://topclassactions.com/lawsuit-settlements/privacy/data-breach/twilio-data-breach-result-of-employee-phishing-attack
 
 Twitter breach exposes anonymous accounts to nation state hackers.
 https://www.cyberscoop.com/twitter-privacy-hacker-password-vulnerability
@@ -58,7 +76,38 @@ https://www.cyberscoop.com/environmentalist-hacktivist-collective-mining-company
 Taiwanese government sites hit with DDoS attacks ahead of Pelosi's visit.
 https://www.cyberscoop.com/taiwan-china-ddos-pelosi-visit
 
+Snapchat, Amex sites abused in Microsoft 365 phishing attacks.
+https://www.bleepingcomputer.com/news/security/snapchat-amex-sites-abused-in-microsoft-365-phishing-attacks
+
+Thousands of Burger King Customers Received a Blank Receipt: Security Breach or Employee Mistake?
+https://www.techtimes.com/articles/278956/20220809/thousands-burger-king-customers-received-blank-receipt-security-breach-employee.htm
+
+7-Eleven Closes Stores in Denmark After Hacker Attack.
+https://www.securityweek.com/7-eleven-closes-stores-denmark-after-hacker-attack
+
+UK NHS suffers outage after cyberattack on managed service provider.
+https://www.bleepingcomputer.com/news/security/uk-nhs-suffers-outage-after-cyberattack-on-managed-service-provider
+
 In the News:
 ___________
 
+The Security Pros and Cons of Using Email Aliases.
+https://krebsonsecurity.com/2022/08/the-security-pros-and-cons-of-using-email-aliases
 
+Exploit Activity Surges 150% in Q2 Thanks to Log4Shell.
+https://www.infosecurity-magazine.com/news/exploit-activity-150-q2-log4shell
+
+10 Credential Stealing Python Libraries Found on PyPI Repository.
+https://thehackernews.com/2022/08/10-credential-stealing-python-libraries.html
+
+Slack resets passwords en masse after invite link vulnerability. The bug, which went undetected for five years, impacts at least 60,000 users but likely more.
+https://www.cybersecuritydive.com/news/slack-password-vulnerability/629026
+
+Microsoft accounts targeted with new MFA-bypassing phishing kit.
+https://www.bleepingcomputer.com/news/security/microsoft-accounts-targeted-with-new-mfa-bypassing-phishing-kit
+
+Experts warn of hacker claiming access to 50 U.S. companies through breached MSP.
+https://therecord.media/experts-warn-of-hacker-claiming-access-to-50-u-s-companies-through-breached-msp
+
+Excel esports on ESPN show world the pain of format errors.
+https://arstechnica.com/gaming/2022/08/excel-esports-on-espn-show-world-the-pain-of-format-errors
