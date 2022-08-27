@@ -1,0 +1,83 @@
+Cybersecurity Week in Review: August 21st to August 27th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 10 new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/08/25/cisa-adds-ten-known-exploited-vulnerabilities-catalog
+
+CISA has released 8 Industrial Control Systems (ICS) advisory, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/08/25/cisa-releases-1-industrial-control-systems-advisory
+https://www.cisa.gov/uscert/ncas/current-activity/2022/08/22/cisa-releases-7-industrial-control-systems-advisories
+
+There are 2129 CVEs so far for the month of August 2022.
+https://nvd.nist.gov/vuln/full-listing/2022/8
+
+CISA has released CISA Insights: Preparing Critical Infrastructure for Post-Quantum Cryptography, which outlines the actions that critical infrastructure stakeholders should take now to prepare for their future migration to the post-quantum cryptographic standard.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/08/24/preparing-critical-infrastructure-post-quantum-cryptography
+
+
+
+Threats and Actors:
+__________________
+
+Cybercriminals Are Selling Access to Chinese Surveillance Cameras.
+https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478
+
+A Vulnerability in Atlassian Bitbucket Server and Data Center Could Allow For Remote Code Execution.
+https://www.cisecurity.org/advisory/a-vulnerability-in-atlassian-bitbucket-server-and-data-center-could-allow-for-remote-code-execution_2022-0107
+
+Google researchers expose Iranian hackers' tool to steal emails from Gmail, Yahoo and Outlook
+https://www.cyberscoop.com/google-iran-hackers-gmail-irgc-charming-kitten
+
+Azure Active Directory Exposes Internal Information
+https://www.secureworks.com/research/azure-active-directory-exposes-internal-information
+
+New 'Donut Leaks' extortion gang linked to recent ransomware attacks.
+https://www.bleepingcomputer.com/news/security/new-donut-leaks-extortion-gang-linked-to-recent-ransomware-attacks
+
+BlackByte is Back and Acting a Lot Like LockBit.
+https://securityboulevard.com/2022/08/blackbyte-is-back-and-acting-a-lot-like-lockbit
+
+Grandoreiro Banking Trojan is Back with New Tactics and New Targets.
+https://cyware.com/news/grandoreiro-banking-trojan-is-back-with-new-tactics-and-new-targets-cb1ac717
+
+Researchers Warn of AiTM Attack Targeting Google G-Suite Enterprise Users.
+https://thehackernews.com/2022/08/researchers-warn-of-aitm-attack.html
+
+Hackers adopt Sliver toolkit as a Cobalt Strike alternative.
+https://www.bleepingcomputer.com/news/security/hackers-adopt-sliver-toolkit-as-a-cobalt-strike-alternative
+
+New Golang Ransomware Agenda Customizes Attacks.
+https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html
+
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+LastPass attackers steal source code, no evidence users’ passwords compromised.
+https://www.tripwire.com/state-of-security/security-data-protection/lastpass-attackers-steal-source-code-no-password-compromise
+
+Firewall Bug Under Active Attack Triggers CISA Warning.
+https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467
+
+In the News:
+___________
+
+Senate scrutiny on Twitter heats up after whistleblower complaint.
+https://www.cyberscoop.com/twitter-whistleblower-complaint-senate
+
+An inside look into states’ efforts to ban gov’t ransomware payments. North Carolina and Florida broke new ground earlier this year when both states banned government entities from paying ransoms connected to ransomware attacks. 
+https://therecord.media/an-inside-look-into-states-efforts-to-ban-govt-ransomware-payments
+
+Industry sets cyber standards for cars and trucks and things that go (unmanned).
+https://www.scmagazine.com/analysis/emerging-technology/industry-sets-cyber-standards-for-cars-and-trucks-and-things-that-go-unmanned
+
+Interstate cyber command center expands.
+https://gcn.com/cybersecurity/2022/08/interstate-cyber-command-center-expands/376146
+
+Here’s a phishing campaign that uses a man-in-the-middle attack to defeat multi-factor authentication.
+https://www.schneier.com/blog/archives/2022/08/man-in-the-middle-phishing-attack.html
