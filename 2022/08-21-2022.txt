@@ -54,6 +54,12 @@ https://www.bleepingcomputer.com/news/security/hackers-adopt-sliver-toolkit-as-a
 New Golang Ransomware Agenda Customizes Attacks.
 https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html
 
+New 'BianLian' Ransomware Variant on the Rise. Novel ransomware was created with the Go open source programming language, demonstrating how malware authors increasingly are opting to employ the flexible coding language.
+https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise
+
+DarkTortilla - Evasive Crypter Becomes Long-Term Threat.
+https://cyware.com/news/darktortilla-evasive-crypter-becomes-long-term-threat-da2b5739
+
 
 Attacks, Breaches, and Incidents:
 ________________________________
@@ -63,6 +69,26 @@ https://www.tripwire.com/state-of-security/security-data-protection/lastpass-att
 
 Firewall Bug Under Active Attack Triggers CISA Warning.
 https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467
+
+Some Authy 2FA accounts were compromised in Twilio data breach.
+https://www.engadget.com/twilio-authy-data-breach-202314313.html
+
+NHS cyberattack causing ‘total chaos’ in hospitals could take a year to recover. Loss of patient records following outage leads to wrong drug doses.
+https://www.independent.co.uk/news/health/nhs-cyber-attack-hospitals-b2153382.html
+
+DoorDash discloses new data breach tied to Twilio hackers.
+https://www.bleepingcomputer.com/news/security/doordash-discloses-new-data-breach-tied-to-twilio-hackers
+
+Cybercriminals abused a zero-day flaw in General Bytes Bitcoin ATM servers to steal cryptocurrency. The hack allowed hackers to receive the cryptocurrency funds to their accounts whenever a user makes a deposit through a compromised ATM.
+
+Attackers Stole Crypto from Bitcoin ATMs.
+https://cyware.com/news/attackers-stole-crypto-from-bitcoin-atms-f3ec6501
+
+Exploits and TrickBot disrupt manufacturing operations.
+https://www.malwarebytes.com/blog/threat-intelligence/2022/08/exploits-and-trickbot-disrupt-manufacturing-operations
+
+Major airline technology provider Accelya attacked by ransomware group.
+https://therecord.media/major-airline-technology-provider-accelya-attacked-by-ransomware-group
 
 In the News:
 ___________
@@ -81,3 +107,9 @@ https://gcn.com/cybersecurity/2022/08/interstate-cyber-command-center-expands/37
 
 Here’s a phishing campaign that uses a man-in-the-middle attack to defeat multi-factor authentication.
 https://www.schneier.com/blog/archives/2022/08/man-in-the-middle-phishing-attack.html
+
+Interested in becoming a nation state hacker for the U.S.? A new recruitment ad by the U.S. is attracting a lot of attention and comments.
+https://www.databreaches.net/interested-in-becoming-a-nation-state-hacker-for-the-u-s
+
+You Can’t Audit Me: APT29 Continues Targeting Microsoft 365.
+https://www.mandiant.com/resources/blog/apt29-continues-targeting-microsoft
