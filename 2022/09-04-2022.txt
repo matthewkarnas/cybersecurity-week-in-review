@@ -1,0 +1,79 @@
+Cybersecurity Week in Review: September 4th to September 10th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA has added 12 new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/09/08/cisa-adds-twelve-known-exploited-vulnerabilities-catalog
+
+CISA, FBI and MS-ISAC released joint Cybersecurity Advisory, #StopRansomware: Vice Society, to disseminate tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs).
+https://www.cisa.gov/uscert/ncas/current-activity/2022/09/06/stopransomware-vice-society
+
+Cisco won’t fix authentication bypass zero-day in EoL routers.
+https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-authentication-bypass-zero-day-in-eol-routers
+
+CISA, NSA, and ODNI Release Part One of Guidance on Securing the Software Supply Chain.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/09/02/cisa-nsa-and-odni-release-part-one-guidance-securing-software
+
+Threats and Actors:
+__________________
+
+LockBit Adds Triple Extortion Tactic and Develops DDoS Defenses.
+https://cyware.com/news/lockbit-adds-triple-extortion-tactic-and-develops-ddos-defenses-b45fd592
+
+New Linux Ransomware Under Development.
+https://cyware.com/news/new-linux-ransomware-under-development-ef0463dc
+
+Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group.
+https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html
+
+Secret Backdoor in Prynt Stealer Steals from Fellow Cybercriminals.
+https://cyware.com/news/secret-backdoor-in-prynt-stealer-steals-from-fellow-cybercriminals-32e48eb9
+
+EvilProxy: News PhaaS Service Lets Hackers Bypass MFA.
+https://cyware.com/news/evilproxy-news-phaas-service-lets-hackers-bypass-mfa-aa5b572a
+
+Bumblebee malware adds post-exploitation tool for stealthy infections.
+https://www.bleepingcomputer.com/news/security/bumblebee-malware-adds-post-exploitation-tool-for-stealthy-infections
+
+GIFShell attack creates reverse shell using Microsoft Teams GIFs.
+https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-shell-using-microsoft-teams-gifs
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+London's Biggest Bus Operator Hit by Cyber "Incident".
+https://www.infosecurity-magazine.com/news/londons-biggest-bus-operator-hit
+
+TikTok data breach denied by company despite hackers’ claims.
+https://topclassactions.com/lawsuit-settlements/privacy/data-breach/tiktok-data-breach-denied-by-company-despite-hackers-claims
+
+200,000 North Face accounts hacked in credential stuffing attack.
+https://www.bleepingcomputer.com/news/security/200-000-north-face-accounts-hacked-in-credential-stuffing-attack
+
+InterContinental Hotels' booking systems disrupted by cyberattack.
+https://www.malwarebytes.com/blog/news/2022/09/intercontinental-hotels-booking-systems-disrupted-by-cyberattack
+
+Cisco confirms Yanluowang ransomware leaked stolen company data.
+https://www.bleepingcomputer.com/news/security/cisco-confirms-yanluowang-ransomware-leaked-stolen-company-data
+
+San Francisco 49ers data breach affects 20K fans.
+https://topclassactions.com/lawsuit-settlements/privacy/data-breach/san-francisco-49ers-data-breach-affects-20k-fans/
+
+In the News:
+___________
+
+EU to announce strict cybersecurity rules for smart device makers.
+https://www.digitaltveurope.com/2022/09/09/eu-to-announce-strict-cybersecurity-rules-for-smart-device-makers
+
+More information about the stolen LastPass source code.
+https://www.infosecurity-magazine.com/news/lastpass-hackers-stole-source-code
+
+6 Top API Security Risks! Favored Targets for Attackers If Left Unmanaged.
+https://thehackernews.com/2022/09/6-top-api-security-risks-favored.html
+
+Instagram receives record fine of $400M for abuse of children's data.
+https://www.malwarebytes.com/blog/news/2022/09/instagram-receives-record-fine-of-400m-for-abuse-of-childrens-data
