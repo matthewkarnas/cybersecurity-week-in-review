@@ -1,0 +1,73 @@
+Cybersecurity Week in Review: October 23rd to October 29th, 2022
+
+******************************************************
+
+
+Alerts, Bulletins, and Updates:
+______________________________
+
+CISA SCuBA Dives Deeper to Help Federal Agencies Secure their Cloud Environments Publishes Security Configuration Baselines for Microsoft 365.
+https://www.cisa.gov/blog/2022/10/20/scuba-dives-deeper-help-federal-agencies-secure-their-cloud-environments-publishes
+
+Joint CISA FBI MS-ISAC Guide on Responding to DDoS Attacks and DDoS Guidance for Federal Agencies.
+https://www.cisa.gov/uscert/ncas/current-activity/2022/10/28/joint-cisa-fbi-ms-isac-guide-responding-ddos-attacks-and-ddos
+
+Binding Operational Directive 23-01 - Improving Asset Visibility and Vulnerability Detection on Federal Networks.
+https://www.cisa.gov/binding-operational-directive-23-01
+
+Threats and Actors:
+__________________
+
+GitHub patches bug that could allow access to another user’s repo.
+https://portswigger.net/daily-swig/github-patches-bug-that-could-allow-access-to-another-users-repo
+
+As many as 85 command-and-control (C2) servers have been discovered supported by the ShadowPad malware since September 2021, with infrastructure detected as recently as October 16, 2022.
+https://thehackernews.com/2022/10/researchers-expose-over-80-shadowpad.html
+
+A recently discovered hacking group known for targeting employees dealing with corporate transactions has been linked to a new backdoor called Danfuan.
+https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html
+
+Attacks, Breaches, and Incidents:
+________________________________
+
+Goodyear class action alleges company monitors customers’ website activity.
+https://topclassactions.com/lawsuit-settlements/consumer-products/goodyear-class-action-alleges-company-monitors-customers-website-activity
+
+Texas Uber Drivers Victimized by Data Breach Receive $4.2M.
+https://www.insurancejournal.com/news/southcentral/2022/10/26/691965.htm
+
+Twilio discloses another hack from June, blames voice phishing.
+https://www.bleepingcomputer.com/news/security/twilio-discloses-another-hack-from-june-blames-voice-phishing
+
+Bed Bath & Beyond Inc said on Friday a third party had this month improperly accessed its data through a phishing scam by accessing the hard drive and certain shared drives of one of its employees.
+https://www.databreaches.net/bed-bath-beyond-reviewing-possible-data-breach
+
+Slovak, Polish Parliaments Hit by Cyberattacks.
+https://www.databreaches.net/slovak-polish-parliaments-hit-by-cyberattacks
+
+Microsoft’s customer data breach exposed hundreds of thousands of users.
+https://www.cpomagazine.com/cyber-security/microsoft-data-breach-exposed-customer-data-of-65000-organizations-redmond-lashes-out-at-security-firm
+
+New York Post was hacked from the inside, employee fired after offensive articles posted online.
+https://grahamcluley.com/new-york-post-was-hacked-from-the-inside-employee-fired-after-offensive-articles-posted-online
+
+In the News:
+___________
+
+A China-Based ByteDance Team Investigated TikTok's Global Security Chief, Who Oversaw U.S. Data Concerns.
+https://www.forbes.com/sites/emilybaker-white/2022/10/25/bytedance-tiktok-investigation-global-chief-security-officer-roland-cloutier
+
+Meet Guacamaya – a hacktivist’s supporting the indigenous people of Central America and tackling the drug cartels.
+https://www.itsecurityguru.org/2022/10/28/meet-guacamaya-a-hacktivists-supporting-the-indigenous-people-of-central-america-and-tackling-the-drug-cartels
+
+If Musk Starts Firing Twitter's Security Team, Run.
+https://www.wired.com/story/elon-musk-twitter-security-privacy-risks
+
+How Google alerted Californians to an earthquake before it happened.
+https://arstechnica.com/science/2022/10/how-google-alerted-californians-to-an-earthquake-before-it-happened
+
+Europe prepares to rewrite the rules of the Internet.
+https://arstechnica.com/tech-policy/2022/10/europe-prepares-to-rewrite-the-rules-of-the-internet
+
+One-Time Program (OTP), cryptographically obfuscated computer program you can mail to someone who can run it on any untrusted computer.
+https://blog.cryptographyengineering.com/2022/10/27/one-time-programs
